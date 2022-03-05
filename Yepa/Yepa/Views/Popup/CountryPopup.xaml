@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Helpers="clr-namespace:Yepa.Helpers"
+             x:Class="Yepa.Views.Popup.CountryPopup">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="10,10,10,0"
+                     Background="{AppThemeBinding Dark=#222,Light=#FFF}">
+
+        <Label Text="(US) United States" FontAttributes="Bold"  FontSize="Small" VerticalOptions="Center" 
+               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+
+        <SearchBar  TextChanged="SearchContent_TextChanged"
+                    PlaceholderColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                    CancelButtonColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                    Background="{AppThemeBinding Dark=#333, Default=#FFF,Light=#FFF}"
+                    TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+
+        <ListView x:Name="ListViewCountries" HasUnevenRows="True" SeparatorVisibility="None" IsPullToRefreshEnabled="False" 
+                  ItemTapped="ListViewCountries_ItemTapped"  SelectionMode="None" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                            <Grid RowDefinitions="Auto" ColumnSpacing="7.5" ColumnDefinitions="Auto,*" Padding="2.5,10" VerticalOptions="Center">
+                                <Label FontSize="17" TextColor="{AppThemeBinding Dark=#FFF,Light=#000}" 
+                                       VerticalOptions="Center" HorizontalOptions="Start" FontAttributes="Bold">
+                                    <Label.Text>
+                                        <MultiBinding StringFormat="{}({0})">
+                                            <Binding Path="Code"/>
+                                        </MultiBinding>
+                                    </Label.Text>
+                                </Label>
+
+                                <Label Grid.Column="1" TextColor="{AppThemeBinding Dark=#FFF,Light=#000}"  >
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="{Binding Name}" FontSize="18"/>
+                                            <Span Text="{Binding NativeNameText}" FontSize="14" TextColor="#666" FontAttributes="Italic"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                            </Grid>
+                        </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+    </ContentPage.Content>
+   
+</ContentPage>
+ 

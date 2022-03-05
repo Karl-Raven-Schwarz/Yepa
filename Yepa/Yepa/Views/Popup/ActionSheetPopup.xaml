@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage  xmlns="http://xamarin.com/schemas/2014/forms"
+                  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+                  xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+                  xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+                  x:Class="Yepa.Views.Popup.ActionSheetPopup"
+                  NavigationPage.HasBackButton="True">
+
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation PositionIn="Center" PositionOut="Center"
+                                   DurationIn="200" DurationOut="200"
+                                   HasBackgroundAnimation="True"/>
+    </pages:PopupPage.Animation>
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="10" Margin="35" 
+                 Background="{AppThemeBinding Dark=#181818, Default=#FFF,Light=#FFF}" >
+        <Grid RowDefinitions="Auto,*,Auto" RowSpacing="7.5">
+            <Label x:Name="TitlePopup" FontSize="Title" Grid.Row="0"
+                   TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"  />
+
+            <ListView x:Name="Buttons" IsRefreshing="False" Grid.Row="1" RowHeight="50"
+                      VerticalScrollBarVisibility="Never"
+                      IsPullToRefreshEnabled="False" SelectionMode="None" ItemTapped="Buttons_ItemTapped"
+                      SeparatorColor="{AppThemeBinding Dark=#333, Default=#DDD,Light=#DDD}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Text="{Binding .}" TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Button x:Name="Cancel" Grid.Row="2" FontAttributes="Bold"
+                    Clicked="Cancel_Clicked" Grid.ColumnSpan="{Binding ColummSpan}"
+                    TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                    BackgroundColor="{AppThemeBinding Dark=#181818, Default=#FFF,Light=#FFF}" />
+        </Grid>
+    </StackLayout>
+</pages:PopupPage>
+ 

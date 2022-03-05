@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms"
+             x:Class="Yepa.Views.AccessApp.StartPage"
+             xmlns:i18n="clr-namespace:Yepa.Helpers"
+              BackgroundColor="#fff">
+    <!--   {i18n:Translate Login}  -->
+    <ContentPage.Content>
+        <Grid RowSpacing="30">
+            <Grid.RowDefinitions>
+                <!-- 0 -->
+                <RowDefinition Height="100"/>
+                <!-- 1 -->
+                <RowDefinition Height="Auto"/>
+                <!-- 2 -->
+                <RowDefinition Height="Auto"/>
+                <!-- 3 -->
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Logo and Title -->
+            <StackLayout Grid.Row="1" HorizontalOptions="Center">
+                <Image Source="LogoPage.png" HeightRequest="100" WidthRequest="100"/>
+                <Label Text="Welcome!" TextColor="#000" FontSize="24"
+                       WidthRequest="300" HorizontalOptions="Center" FontAttributes="Bold"/>
+            </StackLayout>
+
+            <!-- Buttons -->
+
+            <StackLayout Grid.Row="2" HorizontalOptions="Center" Orientation="Vertical" >
+                <Frame HasShadow="True">
+                    <Button Text="Sign Up" HeightRequest="50" WidthRequest="300" 
+                            TextColor="#FFF" BackgroundColor="#000" FontSize="16"  
+                            FontAttributes="Bold" CornerRadius="7"  Clicked="SignUp_Clicked" />
+                </Frame>
+
+                <Frame HasShadow="True">
+                    <Button Text="Log In" HeightRequest="50" WidthRequest="300" 
+                            TextColor="#FFF" BackgroundColor="#000" FontSize="16"  
+                            FontAttributes="Bold" CornerRadius="7"  Clicked="LogIn_Clicked" />
+                </Frame>
+            </StackLayout>
+
+            <Grid Grid.Row="3">
+                <Frame HasShadow="true" Padding="8" CornerRadius="7">
+                    <Entry Placeholder="Password" MaxLength="25" IsPassword="{Binding CheckBoxPassword, Mode=TwoWay}" 
+                               FontSize="Subtitle" Text="{Binding PasswordTxt, Mode=TwoWay}" 
+                               IsEnabled="{Binding IsEnabledTxt}" />
+                </Frame>
+
+                <ImageButton VerticalOptions="Center"
+                      Margin="0,0,10,0"
+                     HeightRequest="20"
+                     HorizontalOptions="End"
+                     Source="LogoPage.png">
+                    
+                </ImageButton>
+            </Grid>
+            <Label HorizontalOptions="Center"
+       VerticalOptions="CenterAndExpand">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <Span Text="Hello " />
+                        <Span Text="Click Me!"
+                  TextColor="Blue"
+                  TextDecorations="Underline">
+                            <Span.GestureRecognizers>
+                                <TapGestureRecognizer Command="{Binding ClickCommand}"
+                                          CommandParameter="https://xamarin.com" />
+                            </Span.GestureRecognizers>
+                        </Span>
+                        <Span Text=" Some more text." />
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+            <StackLayout HorizontalOptions="Center"  Grid.Row="3">
+                <Label Text="© 2021 Maleon" TextColor="#333333" FontSize="12"  HorizontalOptions="Center"/>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

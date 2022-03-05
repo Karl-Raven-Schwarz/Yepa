@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yepa.Views.Home.ListSettingsPage" 
+             xmlns:Behaviors="clr-namespace:Yepa.Behaviors"
+             IconImageSource="Icon_Settings"
+             Background="{AppThemeBinding Dark=#111, Default=#FFF,Light=#FFF}" >
+    <ContentPage.Content>
+        <Grid RowDefinitions="Auto" ColumnDefinitions="*">
+            <ListView x:Name="ListViewSettings" ItemsSource="{Binding ListSettings}" HasUnevenRows="True" IsPullToRefreshEnabled="False" 
+                      IsRefreshing="False" SeparatorColor="{AppThemeBinding Dark=#222, Default=#DDD,Light=#DDD}"
+                      VerticalScrollBarVisibility="Never" SelectionMode="None" IsEnabled="{Binding IsEnabled,Mode=OneWay}" >
+                <ListView.Behaviors>
+                    <Behaviors:ItemTappedBehavior Command="{Binding Source={x:Reference ListViewSettings}, Path=BindingContext.SelectOptionCommand}"/>
+                </ListView.Behaviors>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Margin="15,0" ColumnSpacing="20" RowDefinitions="70" ColumnDefinitions="40,Auto">
+                                <Label FontFamily="FontFontello" Text="{Binding Icon}" FontSize="25"
+                                       HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                                       TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+                                
+                                <Label Grid.Column="1" VerticalOptions="Center" Text="{Binding Title}" FontSize="20" 
+                                       TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

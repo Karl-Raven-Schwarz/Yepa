@@ -1,0 +1,1565 @@
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\Yepa.Android.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\Yepa.Android.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\com.maleon.yepa.apk
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\com.maleon.yepa.aab
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\com.maleon.yepa-Signed.aab
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\com.maleon.yepa-Signed.apk
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\com.maleon.yepa-Signed.apk.idsig
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\Yepa.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\es-419\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\es-AR\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\es-CL\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\es-CO\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\es-ES\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\es-MX\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\es-PE\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\bin\Debug\es-US\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\googsvcsjson\values\goog_svcs_json.xml
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\build.props
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\adb.props
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\Yepa.Android.csprojAssemblyReference.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\_VerifyXamarinAndroidSupportVersions.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res.flag
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\_AndroidXJetifyEmbeddedFiles.jetify
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\2EC8A2D5A6247E18-files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\3\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\51\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\56\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\57\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\62\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\63\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\68\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\81\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\84\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\91\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\94\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\95\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\96\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\97\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\98\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\lp\101\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\R.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\R.cs.flag
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\Yepa.Android.csproj.CoreCompileInputs.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\Yepa.Android.csproj.CopyComplete
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\Yepa.Android.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\Yepa.Android.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\bin\com.maleon.yepa.apk
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\bin\base.zip
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\bin\com.maleon.yepa.aab
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\bin\com.maleon.yepa.apks
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\layout\tabbar.xml
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\layout\toolbar.xml
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\values\styles.xml
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\values\colors.xml
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon.xml
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon_round.xml
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-hdpi\icon.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-hdpi\launcher_foreground.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-mdpi\icon.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-mdpi\launcher_foreground.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xhdpi\icon.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xhdpi\launcher_foreground.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xxhdpi\icon.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xxhdpi\launcher_foreground.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xxxhdpi\icon.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\logopage.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_user.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_home.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_todolist.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_chats.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\splash_screen.xml
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_settings.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_transport.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_assemblyinstallation.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_confection.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_repairmaintenance.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_userworker.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_email.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_logout.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_profile.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_editprofile.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_infoprofile.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_info.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_help.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable-mdpi\icon_logo_notification.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable-xhdpi\icon_logo_notification.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable-xxhdpi\icon_logo_notification.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable-xxxhdpi\icon_logo_notification.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable-hdpi\icon_logo_notification.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_hidepassword.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_showpassword.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_arrowback.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_copy.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_refresh.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_scrolltolast.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_call.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_sms.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_rating.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_openchat.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_send.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_assemblyinstallation_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_call_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_confection_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_copy_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_email_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_help_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_info_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_infoprofile_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_logout_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_openchat_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_profile_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_rating_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_refresh_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_repairmaintenance_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_sms_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_transport_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_user_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_userworker_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_editprofile_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_preferences_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_preferences.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_share_dark.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_share.png
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\uploadflags.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\resolvedassemblies.hash
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Com.OneSignal.Abstractions.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Com.OneSignal.Abstractions.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Com.OneSignal.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Com.OneSignal.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\CommonServiceLocator.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Firebase.Auth.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Firebase.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\FormsViewGroup.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\FormsViewGroup.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.dll.mdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.Extras.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.Platform.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Java.Interop.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\LiteDB.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Mono.Android.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Mono.Android.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Mono.Security.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Mono.Security.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\mscorlib.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\mscorlib.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\netstandard.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Newtonsoft.Json.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\OneSignal.Android.Binding.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\OneSignal.Android.Binding.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.CrossPlatformTintedImage.Abstractions.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.CrossPlatformTintedImage.Abstractions.dll.mdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.CrossPlatformTintedImage.Android.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.CrossPlatformTintedImage.Android.dll.mdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.CurrentActivity.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Geolocator.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Permissions.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Toast.Abstractions.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Toast.Abstractions.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Toast.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Toast.dll.mdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Rg.Plugins.Popup.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Rg.Plugins.Popup.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLite-net.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLiteNetExtensions.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLiteNetExtensions.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLitePCLRaw.batteries_v2.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLitePCLRaw.core.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Buffers.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Collections.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ComponentModel.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Core.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Core.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Data.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Data.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Diagnostics.Debug.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Drawing.Common.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Drawing.Common.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Globalization.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.IO.Compression.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.IO.Compression.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.IO.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Linq.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Linq.Expressions.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Memory.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Net.Http.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Net.Http.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Numerics.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Numerics.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ObjectModel.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Reactive.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Reflection.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Reflection.Extensions.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Resources.ResourceManager.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.Extensions.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.Primitives.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Text.Encoding.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Threading.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Threading.Tasks.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Threading.Tasks.Extensions.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Transactions.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Transactions.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Web.Services.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Web.Services.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Xml.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Xml.Linq.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Xml.Linq.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Xml.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Collections.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Compat.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.CustomView.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.DocumentFile.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Interpolator.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Loader.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Print.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.v4.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.ViewPager.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Essentials.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Essentials.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Firebase.Common.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Firebase.Iid.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Firebase.Iid.Interop.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Firebase.Measurement.Connector.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Firebase.Messaging.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Google.AutoValue.Annotations.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.GooglePlayServices.Ads.Identifier.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.GooglePlayServices.Base.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.GooglePlayServices.Basement.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.GooglePlayServices.Stats.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.GooglePlayServices.Tasks.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Yepa.Android.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Yepa.Android.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\Yepa.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\1e0df7f4-f5e8-4c1f-9040-15f12ec29b4f.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\410ec7ad-4d5f-4f18-8093-e71d86e4b958.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\484becf1-8ef3-489f-b96d-dc8a4285fe57.cfg
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\785ca397-c0ad-4c28-ae65-4eb05f867479.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\7c0ae488-3248-4f44-9ce5-a8afa1780c96.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\7c68b875-cce7-4139-abf4-27c7bc3c1699.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\9cb26ba7-8c5e-4428-bcc9-bb7a5f44e003.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\c4c304c6-a5ba-453b-838b-f5a3a04fbf0c.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\e2d64acf-b2c2-430f-831c-5d2cac9dd542.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\e558827a-bef6-46ac-b2ef-6fe0bb0d983a.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\e7a7794a-0556-4627-b23b-fe4cfa9706cc.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_AndroidXJetifyProguardRules.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\_AndroidXJetifyProguardRules.jetify
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_AndroidXCecilfy.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.arm64-v8a.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.armeabi-v7a.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.x86.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.x86_64.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.armeabi-v7a-shared.inc
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.shared.inc
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\AndroidManifest.xml
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\AndroidManifest.xml
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\__environment__.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\MonoRuntimeProvider.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\assets\machine.config
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\bin\mono.android.jar
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\static.flag
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\buildid.txt
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\environment.arm64-v8a.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\environment.armeabi-v7a.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\environment.x86.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\environment.x86_64.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\resources\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\browser\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\cardview\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\coordinatorlayout\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\core\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\media\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\recyclerview\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\transition\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\com\google\android\gms\base\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\com\google\android\gms\common\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\com\google\android\material\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\com\google\firebase\messaging\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\com\onesignal\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\EmailUpdateHandler.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\IdsAvailableHandler.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\InAppMessageClickHandler.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\NotificationOpenedHandler.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\NotificationReceivedHandler.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\OSExternalUserIdUpdateCompletionHandler.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\PostNotificationResponseHandler.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\SendOutcomeEventSuccessHandler.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\TagsHandler.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6434af9c19aa01b597\GoogleApiClientConnectionCallbacksImpl.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6434af9c19aa01b597\GoogleApiClientOnConnectionFailedListenerImpl.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643dd37f507f3d9710\PopupPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64435a5ac349fa9fda\ActivityLifecycleContextListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6450e07d0e82e86181\AwaitableResultCallback_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6450e07d0e82e86181\ResultCallback_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64759ad84afde56dc2\OnDrawableTouchListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6495d4f5d63cc5c882\AwaitableTaskCompleteListener_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc649efb5bdbf2d8cfa5\GeolocationContinuousListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc649efb5bdbf2d8cfa5\GeolocationSingleListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64d4a39d583cbee055\MainActivity.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64de33a5aec51052ce\TintedImageRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64e6bbec0cebca6418\ActivityBase.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64e6bbec0cebca6418\DialogService_OnDismissListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64eb2743c2f6ea027b\ObservableAdapter_1.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64fdbeeba101bd56dc\RgGestureDetectorListener.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\android\app\ApplicationRegistration.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\common\api\GoogleApiClient_OnConnectionFailedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\common\api\internal\BackgroundDetector_BackgroundStateChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\common\api\internal\SignInConnectionListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\common\api\PendingResult_StatusListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\common\images\ImageManager_OnImageLoadedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\dynamic\OnDelegateCreatedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\security\ProviderInstaller_ProviderInstallListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\tasks\OnCanceledListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\tasks\OnCompleteListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\tasks\OnFailureListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\tasks\OnSuccessListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\tasks\OnTokenCanceledListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\firebase\analytics\connector\AnalyticsConnector_AnalyticsConnectorListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\firebase\FirebaseAppLifecycleListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\firebase\FirebaseApp_BackgroundStateChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\firebase\FirebaseApp_IdTokenListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\firebase\FirebaseApp_IdTokenListenersCountChangedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\onesignal\OSSessionManager_SessionListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\MonoPackageManager_Resources.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\xamarin\essentials\fileProvider.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_AndroidXJetifyManifest.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\androidx\_AndroidXJetifyManifest.jetify
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\bin\packaged_resources
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\src\com\maleon\yepa\R.java
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.x86.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.x86_64.s
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.arm64-v8a.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.armeabi-v7a.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.x86.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.x86_64.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\environment.arm64-v8a.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\environment.armeabi-v7a.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\environment.x86.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\environment.x86_64.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.x86.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.x86_64.o
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\app_shared_libraries\x86\libxamarin-app.so
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\app_shared_libraries\x86_64\libxamarin-app.so
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\android\bin\classes.dex
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_CleanIntermediateIfNeeded.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_CompileToDalvik.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_ConvertCustomView.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_ConvertResourcesCases.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_CopyIntermediateAssemblies.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_GenerateJavaStubs.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_GeneratePackageManagerJava.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa.Android\obj\Debug\100\stamp\_ResolveLibraryProjectImports.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\Yepa.Android.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\Yepa.Android.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\com.maleon.yepa.apk
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\com.maleon.yepa.aab
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\com.maleon.yepa-Signed.aab
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\com.maleon.yepa-Signed.apk
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\com.maleon.yepa-Signed.apk.idsig
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\Yepa.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\es-419\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\es-AR\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\es-CL\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\es-CO\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\es-ES\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\es-MX\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\es-PE\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\bin\Debug\es-US\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\MonoAndroid,Version=v10.0.AssemblyAttributes.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\googsvcsjson\values\goog_svcs_json.xml
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\build.props
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\adb.props
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\Yepa.Android.csprojAssemblyReference.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\_VerifyXamarinAndroidSupportVersions.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_BuildLibraryImportsCache.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res.flag
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_AndroidXJetifyEmbeddedFiles.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\_AndroidXJetifyEmbeddedFiles.jetify
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\079517D143EF45F6-files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\4\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\52\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\57\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\58\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\63\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\64\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\69\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\82\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\85\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\92\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\95\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\96\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\97\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\98\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\99\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\lp\102\jl\files.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\R.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\R.cs.flag
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\Yepa.Android.csproj.CoreCompileInputs.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\Yepa.Android.csproj.CopyComplete
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\Yepa.Android.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\Yepa.Android.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\bin\com.maleon.yepa.apk
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\bin\base.zip
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\bin\com.maleon.yepa.aab
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\bin\com.maleon.yepa.apks
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\layout\tabbar.xml
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\layout\toolbar.xml
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\values\styles.xml
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\values\colors.xml
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon.xml
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-anydpi-v26\icon_round.xml
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-hdpi\icon.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-hdpi\launcher_foreground.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-mdpi\icon.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-mdpi\launcher_foreground.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xhdpi\icon.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xhdpi\launcher_foreground.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xxhdpi\icon.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xxhdpi\launcher_foreground.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xxxhdpi\icon.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\mipmap-xxxhdpi\launcher_foreground.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\logopage.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_user.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_home.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_todolist.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_chats.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\splash_screen.xml
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_settings.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_transport.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_assemblyinstallation.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_confection.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_repairmaintenance.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_userworker.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_email.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_logout.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_profile.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_editprofile.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_infoprofile.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_info.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_help.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable-mdpi\icon_logo_notification.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable-xhdpi\icon_logo_notification.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable-xxhdpi\icon_logo_notification.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable-xxxhdpi\icon_logo_notification.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable-hdpi\icon_logo_notification.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_hidepassword.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_showpassword.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_arrowback.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_copy.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_refresh.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_scrolltolast.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_call.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_sms.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_rating.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_openchat.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_send.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_assemblyinstallation_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_call_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_confection_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_copy_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_email_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_help_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_info_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_infoprofile_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_logout_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_openchat_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_profile_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_rating_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_refresh_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_repairmaintenance_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_sms_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_transport_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_user_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_userworker_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_editprofile_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_preferences_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_preferences.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_share_dark.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\icon_share.png
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\res\drawable\death.jpg
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\uploadflags.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\resolvedassemblies.hash
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Com.OneSignal.Abstractions.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Com.OneSignal.Abstractions.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Com.OneSignal.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Com.OneSignal.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\CommonServiceLocator.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Firebase.Auth.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Firebase.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\FormsViewGroup.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\FormsViewGroup.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.dll.mdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.Extras.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.Extras.dll.mdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.Platform.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\GalaSoft.MvvmLight.Platform.dll.mdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\ImageCircle.Forms.Plugin.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Java.Interop.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\LiteDB.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Mono.Android.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Mono.Android.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Mono.Security.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Mono.Security.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\mscorlib.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\mscorlib.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\netstandard.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Newtonsoft.Json.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\OneSignal.Android.Binding.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\OneSignal.Android.Binding.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.CrossPlatformTintedImage.Abstractions.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.CrossPlatformTintedImage.Abstractions.dll.mdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.CrossPlatformTintedImage.Android.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.CrossPlatformTintedImage.Android.dll.mdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.CurrentActivity.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Geolocator.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Permissions.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Toast.Abstractions.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Toast.Abstractions.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Toast.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Plugin.Toast.dll.mdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Rg.Plugins.Popup.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Rg.Plugins.Popup.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLite-net.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLiteNetExtensions.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLiteNetExtensions.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLitePCLRaw.batteries_v2.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLitePCLRaw.core.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Buffers.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Collections.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ComponentModel.Composition.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ComponentModel.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Core.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Core.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Data.DataSetExtensions.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Data.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Data.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Diagnostics.Debug.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Drawing.Common.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Drawing.Common.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Globalization.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.IO.Compression.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.IO.Compression.FileSystem.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.IO.Compression.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.IO.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Linq.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Linq.Expressions.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Memory.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Net.Http.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Net.Http.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Numerics.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Numerics.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Numerics.Vectors.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ObjectModel.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Reactive.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Reflection.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Reflection.Extensions.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Resources.ResourceManager.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.Extensions.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Runtime.Serialization.Primitives.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.ServiceModel.Internals.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Text.Encoding.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Threading.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Threading.Tasks.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Transactions.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Transactions.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Web.Services.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Web.Services.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Xml.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Xml.Linq.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Xml.Linq.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\System.Xml.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Core.Common.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Annotations.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Collections.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Compat.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Core.UI.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Core.Utils.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.CustomTabs.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.CustomView.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.DocumentFile.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Fragment.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Interpolator.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Loader.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Media.Compat.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.Print.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.v4.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.v7.CardView.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Android.Support.ViewPager.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Activity.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Annotation.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.AppCompatResources.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AppCompat.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Common.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Arch.Core.Runtime.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.AsyncLayoutInflater.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Browser.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CardView.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Collection.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CoordinatorLayout.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Core.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CursorAdapter.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.CustomView.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DocumentFile.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.DrawerLayout.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Fragment.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Interpolator.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.UI.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.Core.Utils.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Legacy.Support.V4.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Common.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.Core.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.LiveData.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.Runtime.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Lifecycle.ViewModel.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Loader.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.LocalBroadcastManager.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Media.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.MultiDex.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Print.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.RecyclerView.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SavedState.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SlidingPaneLayout.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.SwipeRefreshLayout.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.Transition.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.Animated.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VectorDrawable.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.VersionedParcelable.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.AndroidX.ViewPager.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Essentials.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Essentials.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Firebase.Common.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Firebase.Iid.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Firebase.Iid.Interop.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Firebase.Measurement.Connector.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Firebase.Messaging.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Core.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.Android.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Platform.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Forms.Xaml.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Google.Android.Material.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.Google.AutoValue.Annotations.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.GooglePlayServices.Ads.Identifier.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.GooglePlayServices.Base.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.GooglePlayServices.Basement.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.GooglePlayServices.Stats.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Xamarin.GooglePlayServices.Tasks.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Yepa.Android.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Yepa.Android.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\Yepa.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\13759421-e49e-4dbd-9972-01c1314fe35d.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\2e8e10d6-fa06-4de3-a1a5-a187dc5be242.cfg
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\2f0ae1ed-dfa4-461a-8865-f44121d8dca3.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\3ace3400-25c9-4201-84ba-7a917be6c6ad.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\65e7d67e-9527-4a3b-ba98-a18e2b009bef.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\73d44ed0-77a4-45b0-9f03-3fe171967b15.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\a2200ce4-66b2-4226-a2bf-4bbab2f2e6ae.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\ad7f0240-8270-4810-978e-4e12c381b569.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\d667634e-3826-4408-b5be-4543bbe8f754.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\ec86f2dd-cebd-47f3-b045-edef7ed02f8c.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\proguard\ffbd90e4-50ad-4f8b-8ef1-9d3fbb0644e2.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_AndroidXJetifyProguardRules.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\_AndroidXJetifyProguardRules.jetify
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_AndroidXCecilfy.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.arm64-v8a.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.armeabi-v7a.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.x86.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.x86_64.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.armeabi-v7a-shared.inc
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.shared.inc
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\AndroidManifest.xml
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\AndroidManifest.xml
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\__environment__.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\MonoRuntimeProvider.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\assets\machine.config
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\bin\mono.android.jar
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\static.flag
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\buildid.txt
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\environment.arm64-v8a.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\environment.armeabi-v7a.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\environment.x86.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\environment.x86_64.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\resources\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\appcompat\widget\Toolbar_NavigationOnClickEventDispatcher.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\browser\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\browser\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\cardview\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\coordinatorlayout\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\core\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\media\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\recyclerview\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\androidx\transition\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\com\google\android\gms\base\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\com\google\android\gms\common\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\com\google\android\material\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\com\google\firebase\messaging\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\com\onesignal\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6414252951f3f66c67\RecyclerViewScrollListener_2.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\EmailUpdateHandler.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\IdsAvailableHandler.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\InAppMessageClickHandler.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\NotificationOpenedHandler.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\NotificationReceivedHandler.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\OSExternalUserIdUpdateCompletionHandler.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\PostNotificationResponseHandler.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\SendOutcomeEventSuccessHandler.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6421f751c7745e34df\TagsHandler.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6434af9c19aa01b597\GoogleApiClientConnectionCallbacksImpl.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6434af9c19aa01b597\GoogleApiClientOnConnectionFailedListenerImpl.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6436929b8ad3b40f6f\ImageCircleRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643dd37f507f3d9710\PopupPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActionSheetRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ActivityIndicatorRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AHorizontalScrollView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\AndroidActivity.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BaseCellView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BorderDrawable.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\BoxRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonClickListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ButtonRenderer_ButtonTouchListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageAdapter.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselSpacingItemDecoration.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewOnScrollListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CarouselViewRenderer_CarouselViewwOnGlobalLayoutListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellAdapter.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CellRenderer_RendererHolder.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CenterSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxDesignerRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CheckBoxRendererBase.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CircularProgress.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CollectionViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ColorChangeRevealDrawable.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ConditionalFocusLayout.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ContainerView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\CustomFrameLayout.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DataChangeObserver.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DatePickerRendererBase_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\DragAndDropGestureHandler.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EdgeSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorEditText.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EditorRendererBase_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EllipseView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EmptyViewAdapter.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSingleSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EndSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryAccessibilityDelegate.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellEditText.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryCellView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryEditText.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\EntryRendererBase_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_FontSpan.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_LineHeightSpan.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormattedStringExtensions_TextDecorationSpan.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsAppCompatActivity.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsApplicationActivity.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditText.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsEditTextBase.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsImageView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsSeekBar.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsTextView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsVideoView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebChromeClient.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FormsWebViewClient.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\FrameRenderer_FrameDrawable.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericAnimatorListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GenericMenuClickListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GestureManager_TapAndPanGestureDetector.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GradientStrokeDrawable_GradientShaderFactory.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GridLayoutSpanSizeLookup.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewAdapter_2.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupableItemsViewRenderer_3.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\GroupedListViewAdapter.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageButtonRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_CacheEntry.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageCache_FormsLruCache.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ImageRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerGestureListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\InnerScaleListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemContentView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewAdapter_2.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ItemsViewRenderer_3.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LabelRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LineView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewAdapter.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_Container.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_ListViewScrollDetector.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\LocalizedDigitsKeyListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailContainer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MasterDetailRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\MediaElementRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NativeViewWrapperRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NavigationRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\NongreedySnapHelper_InitialScrollListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ObjectJavaBox_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\OpenGLViewRenderer_Renderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageContainer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedFragment.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageExtensions_EmbeddedSupportFragment.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PageRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PathView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerEditText.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerManager_PickerListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PickerRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PlatformRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\Platform_DefaultRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolygonView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PolylineView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PositionalSmoothScroller.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\PowerSaveModeBroadcastReceiver.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ProgressBarRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RadioButtonRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectangleRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RectView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\RefreshViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollHelper.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewContainer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ScrollViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SearchBarRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewAdapter_2.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableItemsViewRenderer_3.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SelectableViewHolder.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeRenderer_2.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShapeView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellContentFragment.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellFragmentPagerAdapter.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellItemRendererBase.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellPageContainer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellRenderer_SplitDrawable.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_CustomFilter.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchViewAdapter_ObjectWrapper.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSearchView_ClipDrawableWrapper.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellSectionRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SimpleViewHolder.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SingleSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SizedItemContentView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SliderRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SpacingItemDecoration.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSingleSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StartSnapHelper.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StepperRendererManager_StepperListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewAdapter_2.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\StructuredItemsViewRenderer_3.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchCellView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\SwitchRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TabbedRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewModelRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TableViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TemplatedItemViewHolder.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextCellRenderer_TextCellView.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TextViewHolder.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\TimePickerRendererBase_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewCellRenderer_ViewCellContainer_TapGestureListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\ViewRenderer_2.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementRenderer_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\VisualElementTracker_AttachTracker.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc643f46942d9dd1fff9\WebViewRenderer_JavascriptResult.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64435a5ac349fa9fda\ActivityLifecycleContextListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6450e07d0e82e86181\AwaitableResultCallback_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6450e07d0e82e86181\ResultCallback_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ButtonRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\CarouselPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsFragmentPagerAdapter_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FormsViewPager.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FragmentContainer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\FrameRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailContainer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\MasterDetailPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_ClickListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_Container.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\NavigationPageRenderer_DrawerMultiplexedListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\PickerRendererBase_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\Platform_ModalContainer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ShellFragmentContainer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\SwitchRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\TabbedPageRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64720bb2db43a66fe9\ViewRenderer_2.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64759ad84afde56dc2\OnDrawableTouchListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc6495d4f5d63cc5c882\AwaitableTaskCompleteListener_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc649efb5bdbf2d8cfa5\GeolocationContinuousListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc649efb5bdbf2d8cfa5\GeolocationSingleListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ActivityLifecycleContextListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BarometerListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\BatteryBroadcastReceiver.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ClipboardChangeListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\ConnectivityBroadcastReceiver.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\EnergySaverBroadcastReceiver.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\GyroscopeListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\Listener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\MagnetometerListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\OrientationSensorListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SensorListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\SingleLocationListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64b11c0cf8ce3f302d\BetterLinkMovementMethod.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64b11c0cf8ce3f302d\BetterLinkMovementMethod_LongPressTimer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64b11c0cf8ce3f302d\EditorChatRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64b11c0cf8ce3f302d\HyperLinkLabelRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64b11c0cf8ce3f302d\URLSpanNoUnderline.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64d4a39d583cbee055\MainActivity.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64de33a5aec51052ce\TintedImageRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64e6bbec0cebca6418\ActivityBase.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64e6bbec0cebca6418\DialogService_OnDismissListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64eb2743c2f6ea027b\ObservableAdapter_1.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ButtonRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\FrameRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\ImageRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64ee486da937c010f4\LabelRenderer.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\crc64fdbeeba101bd56dc\RgGestureDetectorListener.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ActionMenuView_OnMenuItemClickListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ContentFrameLayout_OnAttachListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\MenuItemHoverListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnDismissListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\PopupMenu_OnMenuItemClickListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnCloseListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnQueryTextListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\SearchView_OnSuggestionListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ShareActionProvider_OnShareTargetSelectedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\appcompat\widget\ViewStubCompat_OnInflateListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\asynclayoutinflater\view\AsyncLayoutInflater_OnInflateFinishedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\os\CancellationSignal_OnCancelListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\accessibility\AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\ActionProvider_VisibilityListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\DragStartHelper_OnDragStartListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\MenuItemCompat_OnActionExpandListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\OnApplyWindowInsetsListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\core\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\drawerlayout\widget\DrawerLayout_DrawerListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\fragment\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCanceledListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\loader\content\Loader_OnLoadCompleteListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\AsyncListDiffer_ListListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_OnItemTouchListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\recyclerview\widget\RecyclerView_RecyclerListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\slidingpanelayout\widget\SlidingPaneLayout_PanelSlideListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\swiperefreshlayout\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\transition\Transition_TransitionListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnAdapterChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\androidx\viewpager\widget\ViewPager_OnPageChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\android\app\ApplicationRegistration.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\common\api\GoogleApiClient_OnConnectionFailedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\common\api\internal\BackgroundDetector_BackgroundStateChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\common\api\internal\SignInConnectionListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\common\api\PendingResult_StatusListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\common\images\ImageManager_OnImageLoadedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\dynamic\OnDelegateCreatedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\security\ProviderInstaller_ProviderInstallListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\tasks\OnCanceledListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\tasks\OnCompleteListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\tasks\OnFailureListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\tasks\OnSuccessListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\gms\tasks\OnTokenCanceledListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\appbar\AppBarLayout_OnOffsetChangedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\behavior\SwipeDismissBehavior_OnDismissListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\bottomnavigation\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\navigation\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\android\material\tabs\TabLayout_BaseOnTabSelectedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\firebase\analytics\connector\AnalyticsConnector_AnalyticsConnectorListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\firebase\FirebaseAppLifecycleListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\firebase\FirebaseApp_BackgroundStateChangeListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\firebase\FirebaseApp_IdTokenListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\google\firebase\FirebaseApp_IdTokenListenersCountChangedListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\com\onesignal\OSSessionManager_SessionListenerImplementor.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\mono\MonoPackageManager_Resources.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\xamarin\essentials\fileProvider.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_AndroidXJetifyManifest.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\androidx\_AndroidXJetifyManifest.jetify
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\bin\packaged_resources
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\src\com\maleon\yepa\R.java
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.x86.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.x86_64.s
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.arm64-v8a.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.armeabi-v7a.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.x86.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\typemaps.x86_64.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\environment.arm64-v8a.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\environment.armeabi-v7a.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\environment.x86.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\environment.x86_64.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.arm64-v8a.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.armeabi-v7a.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.x86.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\compressed_assemblies.x86_64.o
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\app_shared_libraries\arm64-v8a\libxamarin-app.so
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\app_shared_libraries\armeabi-v7a\libxamarin-app.so
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\app_shared_libraries\x86\libxamarin-app.so
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\app_shared_libraries\x86_64\libxamarin-app.so
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\android\bin\classes.dex
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_CleanIntermediateIfNeeded.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_CompileToDalvik.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_ConvertCustomView.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_ConvertResourcesCases.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_CopyIntermediateAssemblies.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_GenerateJavaStubs.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_GeneratePackageManagerJava.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa.Android\obj\Debug\100\stamp\_ResolveLibraryProjectImports.stamp

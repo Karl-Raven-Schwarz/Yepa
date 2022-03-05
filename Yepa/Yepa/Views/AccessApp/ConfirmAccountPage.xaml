@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yepa.Views.AccessApp.ConfirmAccountPage"
+             xmlns:d="http://xamarin.com/schemas/2014/forms"
+             xmlns:i18n="clr-namespace:Yepa.Helpers"
+             Title="Confirm"
+             NavigationPage.HasBackButton="True"
+             NavigationPage.HasNavigationBar="True"
+             BackgroundColor="#FFF">
+    <!--   {i18n:Translate Login}  -->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout VerticalOptions="Start" HorizontalOptions="CenterAndExpand">
+                <Grid RowSpacing="20">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50"/>
+                        <!-- 0 -->
+                        <RowDefinition Height="Auto"/>
+                        <!-- 1 -->
+                        <RowDefinition Height="Auto"/>
+                        <!-- 2 -->
+                        <RowDefinition Height="Auto"/>
+                        <!-- 3 -->
+                        <RowDefinition Height="Auto"/>
+                        <!-- 4 -->
+                        <RowDefinition Height="Auto"/>
+                        <!-- 5 -->
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Title -->
+                    <StackLayout Grid.Row="1" HorizontalOptions="Center" WidthRequest="300" >
+                        <Label Text="{i18n:Translate Confirmaccount}" TextColor="#000" FontSize="26" 
+                           WidthRequest="300" FontAttributes="Bold"/>
+                    </StackLayout>
+
+                    <!-- Enter te code Text -->
+                    <StackLayout Grid.Row="2" HorizontalOptions="Center" WidthRequest="300" Orientation="Horizontal">
+                        <Label Text="{i18n:Translate Entercodesent}" TextColor="#000" FontSize="20" 
+                           WidthRequest="300"/>
+                    </StackLayout>
+
+                    <!-- Enter code -->
+                    <StackLayout Grid.Row="3" HorizontalOptions="Center" WidthRequest="300" Orientation="Vertical">
+                        <Frame HasShadow="True" CornerRadius="7" Padding="8">
+                            <Entry Placeholder="{i18n:Translate Entercode}" FontSize="15" Keyboard="Numeric" 
+                               MaxLength="8" Text="{Binding CodePasswordTxt, Mode=TwoWay}"
+                               IsEnabled="{Binding IsEnabledTxt}"/>
+                        </Frame>
+                    </StackLayout>
+
+                    <!-- Button -->
+                    <StackLayout Grid.Row="4"  HorizontalOptions="Center" Orientation="Vertical">
+                        <Button Text="{i18n:Translate Continue}" HeightRequest="50" TextColor="#FFF" 
+                            BackgroundColor="#000" FontSize="15" FontAttributes="Bold" 
+                            WidthRequest="300" Command="{Binding EnterCodeCommand}"
+                        IsEnabled="{Binding IsEnabledTxt, Mode=TwoWay}" CornerRadius="7"/>
+                    </StackLayout>
+
+                    <!-- ActivityIndicator -->
+                    <StackLayout Grid.Row="5" HorizontalOptions="Center" Padding="0">
+                        <ActivityIndicator IsRunning="{Binding IsRunningTxt}" 
+                                       IsVisible="{Binding IsVisibleTxt}" Color="#000"  Scale="0.8"/>
+                    </StackLayout>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

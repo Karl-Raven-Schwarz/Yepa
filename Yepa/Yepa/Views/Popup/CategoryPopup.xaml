@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pages:PopupPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:Pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+    xmlns:Animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+    x:Class="Yepa.Views.Popup.CategoryPopup"
+    NavigationPage.HasBackButton="True">
+
+    <Pages:PopupPage.Animation>
+        <Animations:ScaleAnimation PositionIn="Right"  PositionOut="Right" DurationIn="200"
+                                   DurationOut="200" HasBackgroundAnimation="True"/>
+    </Pages:PopupPage.Animation>
+
+    <Pages:PopupPage.Content>
+        <Grid VerticalOptions="Center" HorizontalOptions="Center"  Padding="5" Margin="25,25"
+              Background="{AppThemeBinding Dark=#222,Light=#FFF}" RowDefinitions="Auto,*">
+            <Grid ColumnDefinitions="Auto,*" RowDefinitions="Auto">
+                <Button Text="X" Clicked="BackButton" FontAttributes="Bold" Padding="0"
+                        HeightRequest="50" WidthRequest="50"/>
+
+                <Label Grid.Column="1" Text="+1 - United States (US)"  FontAttributes="Bold" FontSize="16" VerticalOptions="Center"
+                       TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" Margin="5" />
+            </Grid>
+            
+            <ListView x:Name="ListViewCategories" Grid.Row="1"  HasUnevenRows="True" IsPullToRefreshEnabled="False" 
+                      VerticalScrollBarVisibility="Never" SeparatorColor="{AppThemeBinding Dark=#222,Light=#DDD}"
+                      Margin="0" IsRefreshing="False" ItemTapped="ListViewCategories_ItemTapped" HeightRequest="204" SelectionMode="None">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Height="50" Text="{Binding Value}" TextColor="{AppThemeBinding Dark=#FFF,Light=#000}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <ListView x:Name="ListViewSubCategories" Grid.Row="1"  HasUnevenRows="True" IsPullToRefreshEnabled="False" 
+                      VerticalScrollBarVisibility="Never" SeparatorColor="{AppThemeBinding Dark=#222,Light=#DDD}"
+                      Margin="0" IsRefreshing="False" ItemTapped="ListViewSubCategories_ItemTapped" SelectionMode="None">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextCell Height="50" Text="{Binding Value}" TextColor="{AppThemeBinding Dark=#FFF,Light=#000}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </Pages:PopupPage.Content>
+</Pages:PopupPage>
+ 

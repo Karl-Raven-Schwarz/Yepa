@@ -1,0 +1,144 @@
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\Yepa.deps.json
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\ref\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\Yepa.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\es-419\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\es-AR\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\es-CL\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\es-CO\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\es-ES\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\es-MX\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\es-PE\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\bin\Debug\netstandard2.0\es-US\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.resources
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.ResourceCategory.resources
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-419.resources
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-AR.resources
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-CL.resources
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-CO.resources
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-ES.resources
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-MX.resources
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-PE.resources
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-US.resources
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.csproj.GenerateResource.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\ConfirmAccountPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\FindAccountPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\LoadPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\LogInPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\LogInPageW.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\NewPasswordPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\SignUpPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\SignUpPageW.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\StartPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ApplicationInformation.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ChatPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\EditProfilePage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\HelpPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ListViewChats.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ListViewWorkers.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ListViewWorks.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\MessageInfoPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\PreferencesPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ProfilePage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ProfileWorkerPage .xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\Settings.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\SettingsPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\ActionSheetPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\AlertPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\ChangeFontSizePopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\CodeCountryPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\CountryPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\MessageSelectedPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\PromptPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\RatingPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\ShortPressedMessagePopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Tabbed\ContainerTabbedPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.AssemblyInfoInputs.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.AssemblyInfo.cs
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.csproj.CoreCompileInputs.cache
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\XamlC.stamp
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\es-419\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\es-AR\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\es-CL\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\es-CO\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\es-ES\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\es-MX\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\es-PE\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\es-US\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\ref\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.pdb
+D:\APPS PROJECT\APPS\Yepa\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.csprojAssemblyReference.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\Yepa.deps.json
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\ref\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\Yepa.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\es-419\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\es-AR\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\es-CL\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\es-CO\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\es-ES\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\es-MX\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\es-PE\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\bin\Debug\netstandard2.0\es-US\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.resources
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.ResourceCategory.resources
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-419.resources
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-AR.resources
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-CL.resources
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-CO.resources
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-ES.resources
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-MX.resources
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-PE.resources
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.Resources.Resource.es-US.resources
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.csproj.GenerateResource.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\ConfirmAccountPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\FindAccountPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\LoadPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\LogInPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\NewPasswordPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\SignUpPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\SignUpPageW.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\AccessApp\StartPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\ContainerTabbedPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ApplicationInformation.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ChatPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\EditProfilePage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\HelpPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ListSettingsPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ListViewChats.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ListViewWorkers.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ListViewWorks.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\MessageInfoPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\PreferencesPage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ProfilePage.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\ProfileWorkerPage .xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Home\Settings.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\ActionSheetPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\AlertPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\CategoryPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\ChangeFontSizePopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\CountryPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\MessageSelectedPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\PhoneCodePopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\PromptPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\RatingPopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Views\Popup\ShortPressedMessagePopup.xaml.g.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.AssemblyInfoInputs.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.AssemblyInfo.cs
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.csproj.CoreCompileInputs.cache
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\XamlC.stamp
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\es-419\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\es-AR\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\es-CL\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\es-CO\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\es-ES\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\es-MX\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\es-PE\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\es-US\Yepa.resources.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\ref\Yepa.dll
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.pdb
+D:\APPS PROJECT\APPS\Yepa Oficial\Yepa\Yepa\obj\Debug\netstandard2.0\Yepa.csprojAssemblyReference.cache

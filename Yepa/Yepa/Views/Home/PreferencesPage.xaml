@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:Behaviors="clr-namespace:Yepa.Behaviors"
+             x:Class="Yepa.Views.Home.PreferencesPage" 
+             Title="Preferences"
+             xmlns:UTC="clr-namespace:Yepa.Views.Home"
+             Behaviors:OnDisappearingBehavior.Command="{Binding CloseCommand}"
+             BackgroundColor="{AppThemeBinding Dark=#111, Light=#FFF}" >
+
+    <ContentPage.Resources>
+        <UTC:UtcToLocalDateTimeConverter x:Key="UtcToLocalDateTimeConverter" />
+    </ContentPage.Resources>
+    
+    <ContentPage.Content>
+            
+        <ScrollView VerticalScrollBarVisibility="Never">
+            <StackLayout Spacing="0" >
+                <StackLayout Background="{AppThemeBinding Dark=#111, Default=#FFF,Light=#FFF}" Spacing="0" 
+                             VerticalOptions="Start" HorizontalOptions="Start">
+                    <Grid Margin="15" ColumnSpacing="20" RowSpacing="0" ColumnDefinitions="40,Auto,Auto">
+                        <Label FontFamily="FontFontello" Text="{Binding ChatPreferences[0].Icon}" FontSize="25" 
+                               HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+
+                        <Label Grid.Column="1" VerticalOptions="Center" Text="{Binding ChatPreferences[0].Title}" FontSize="20" 
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+                    </Grid>
+
+                    <Grid Margin="10,0" ColumnDefinitions="*,Auto" RowDefinitions="Auto">
+                        <Slider x:Name="SliderFontSize" Value="{Binding SliderFontSize}" Grid.Column="0" Maximum="25" Minimum="12" Scale=".8"/>
+
+                        <Label Text="{Binding SliderFontSize}" HorizontalOptions="Center" FontSize="20" WidthRequest="50"
+                               Grid.Column="1" TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+                    </Grid>
+
+                    <Grid Margin="15" ColumnSpacing="20" RowSpacing="0" ColumnDefinitions="40,Auto">
+                        <Label FontFamily="FontFontello" Text="{Binding ChatPreferences[1].Icon}" FontSize="25" 
+                               HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+
+                        <Label Grid.Column="1" VerticalOptions="Center" Text="{Binding ChatPreferences[1].Title}" FontSize="20" 
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+                    </Grid>
+
+                    <Grid Margin="10,0" ColumnDefinitions="*,Auto" RowDefinitions="Auto">
+                        <Slider x:Name="SliderCornerRadius" Scale=".8" Grid.Column="0" Value="{Binding SliderBorder}" Maximum="20" Minimum="0"/>
+
+                        <Label Text="{Binding SliderBorder}" HorizontalOptions="Center" FontSize="20" WidthRequest="50"
+                               Grid.Column="1" TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+                    </Grid>
+
+                    <Grid RowDefinitions="Auto,Auto" Margin="0,7.5">
+                        <Grid Grid.Row="0" Padding="12.5,2.5" Margin="0,0,50,0" HorizontalOptions="Start">
+                            <BoxView BackgroundColor="#DEDEDE" VerticalOptions="Center" HorizontalOptions="Start" 
+                                     HeightRequest="15" WidthRequest="15" TranslationX="-2.75" Rotation="45"/>
+
+                            <Frame BackgroundColor="#DEDEDE" Padding="0" Margin="0" 
+                                   CornerRadius="{Binding Source={x:Reference SliderCornerRadius}, Path=Value}"  />
+                           
+                            <StackLayout Padding="12,6" Spacing="-2" >
+                                <Label Text="{Binding ClientMessage}" HorizontalTextAlignment="Start" LineBreakMode="WordWrap" TextColor="#000" 
+                                       FontSize="{Binding FontSize}" />
+
+                                <Label Text="{Binding WorkerDate ,Converter={StaticResource UtcToLocalDateTimeConverter}, StringFormat='{0:h:mm tt}'}"
+                                       FontSize="{Binding DateFontSize}" TextColor="#181818" FontAttributes="Italic" HorizontalTextAlignment="End"/>
+                            </StackLayout>
+                        </Grid>
+
+                        <Grid Grid.Row="1" Padding="12.5,2.5" Margin="50,0,0,0" HorizontalOptions="End">
+                            <BoxView BackgroundColor="DodgerBlue" VerticalOptions="Center" HorizontalOptions="End" 
+                                     HeightRequest="15" WidthRequest="15" TranslationX="2.75" Rotation="45"/>
+
+                            <Frame BackgroundColor="DodgerBlue"  Padding="0" Margin="0" 
+                                   CornerRadius="{Binding Source={x:Reference SliderCornerRadius}, Path=Value}"  />
+
+                            <StackLayout Padding="12,6" Spacing="-2" >
+                                <Label Text="{Binding WokerMessage}" HorizontalTextAlignment="Start" LineBreakMode="WordWrap" TextColor="#FFF"
+                                       FontSize="{Binding FontSize}" />
+
+                                <Label Text="{Binding ClientDate ,Converter={StaticResource UtcToLocalDateTimeConverter}, StringFormat='{0:h:mm tt}'}"
+                                       FontSize="{Binding DateFontSize}" TextColor="#F8F8F8" FontAttributes="Italic" HorizontalTextAlignment="End" />
+                            </StackLayout>
+                        </Grid>
+                    </Grid>
+                </StackLayout>
+
+                <BoxView Color="{AppThemeBinding Dark=#222,Light=#DDD}" HeightRequest="1"/>
+
+                <ListView x:Name="ListVewPreferences" ItemsSource="{Binding GeneralPreferences}" HasUnevenRows="True" IsPullToRefreshEnabled="False" 
+                          IsRefreshing="False" VerticalScrollBarVisibility="Never" HeightRequest="141" RowHeight="70"
+                          SeparatorColor="{AppThemeBinding Dark=#222,Light=#DDD}"
+                          SelectionMode="None" IsEnabled="{Binding IsEnabled}">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell Behaviors:TappedViewCellBehavior.Command="{Binding Source={x:Reference ListVewPreferences}, Path=BindingContext.SelectOptionCommand}"
+                                      Behaviors:TappedViewCellBehavior.CommandParameter="{Binding Key}">
+                                <Grid Margin="15,0" ColumnSpacing="20" RowSpacing="0" RowDefinitions="70" ColumnDefinitions="40,Auto">
+                                    <Label FontFamily="FontFontello" Text="{Binding Icon}" FontSize="25" 
+                                           HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                                           TextColor="{AppThemeBinding Dark=#FFF,Light=#000}"/>
+
+                                    <Label Grid.Column="1" VerticalOptions="Center" Text="{Binding Title}" FontSize="20" 
+                                           TextColor="{AppThemeBinding Dark=#FFF,Light=#000}" />
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

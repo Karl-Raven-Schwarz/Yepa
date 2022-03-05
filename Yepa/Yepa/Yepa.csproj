@@ -1,0 +1,170 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>portable</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Fonts\FontFontello.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Fonts\FontFontello.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Com.OneSignal" Version="3.10.6" />
+    <PackageReference Include="FirebaseAuthentication.net" Version="3.6.0" />
+    <PackageReference Include="FirebaseDatabase.net" Version="4.0.6" />
+    <PackageReference Include="MvvmLightLibs" Version="5.4.1.1" NoWarn="NU1701" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Plugin.CrossPlatformTintedImage" Version="1.0.0" NoWarn="NU1701" />
+    <PackageReference Include="Plugin.Toast" Version="2.2.0" />
+    <PackageReference Include="Rg.Plugins.Popup" Version="2.0.0.11" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.7.335" />
+    <PackageReference Include="SQLiteNetExtensions" Version="2.1.0" />
+    <PackageReference Include="Xam.Plugin.Geolocator" Version="4.5.0.6" />
+    <PackageReference Include="Xam.Plugins.Forms.ImageCircle" Version="3.0.0.5" />
+    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1451" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.5.3.2" />
+    <!---->
+    
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Resources\Resource.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\ResourceCategory.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ResourceCategory.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Views\AccessApp\ConfirmAccountPage.xaml.cs">
+      <DependentUpon>ConfirmAccountPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\AccessApp\FindAccountPage.xaml.cs">
+      <DependentUpon>FindAccountPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\AccessApp\LoginPage.xaml.cs">
+      <DependentUpon>LogInPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\AccessApp\NewPasswordPage.xaml.cs">
+      <DependentUpon>NewPasswordPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\AccessApp\SignUpPageW.xaml.cs">
+      <DependentUpon>SignUpPageW.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\AccessApp\SignUpPage.xaml.cs">
+      <DependentUpon>SignUpPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\AccessApp\LoadPage.xaml.cs">
+      <DependentUpon>LoadPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Home\MessageInfoPage.xaml.cs">
+      <DependentUpon>MessageInfoPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Home\ChatPage.xaml.cs">
+      <DependentUpon>ChatPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Home\ListViewChats.xaml.cs">
+      <DependentUpon>ListViewChats.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Home\ListViewWorks.xaml.cs">
+      <DependentUpon>ListViewWorks.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Home\EditProfilePage.xaml.cs">
+      <DependentUpon>EditProfilePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Home\HelpPage.xaml.cs">
+      <DependentUpon>HelpPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Home\ProfileWorkerPage .xaml.cs">
+      <DependentUpon>ProfileWorkerPage .xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Home\ProfilePage.xaml.cs">
+      <DependentUpon>ProfilePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Home\ListSettingsPage.xaml.cs">
+      <DependentUpon>ListSettingsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Popup\CategoryPopup.xaml.cs">
+      <DependentUpon>CategoryPopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Popup\PromptPopup.xaml.cs">
+      <DependentUpon>PromptPopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Popup\ActionSheetPopup.xaml.cs">
+      <DependentUpon>ActionSheetPopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Popup\PhoneCodePopup.xaml.cs">
+      <DependentUpon>PhoneCodePopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Popup\CountryPopup.xaml.cs">
+      <DependentUpon>CountryPopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Popup\ChangeFontSizePopup.xaml.cs">
+      <DependentUpon>ChangeFontSizePopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Popup\AlertPopup.xaml.cs">
+      <DependentUpon>AlertPopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Popup\ShortPressedMessagePopup.xaml.cs">
+      <DependentUpon>ShortPressedMessagePopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Popup\RatingPopup.xaml.cs">
+      <DependentUpon>RatingPopup.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\Popup\MessageSelectedPopup.xaml.cs">
+      <DependentUpon>MessageSelectedPopup.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\CategoriesWork.resx">
+      <LastGenOutput>Resourc.Designer.cs</LastGenOutput>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Resource.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\ResourceCategory.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ResourceCategory.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\AccessApp\ConfirmAccountPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\AccessApp\FindAccountPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\AccessApp\NewPasswordPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\AccessApp\LoadPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\AccessApp\StartPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Home\PreferencesPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\Popup\MessageSelectedPopup.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\ContainerTabbedPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "20050655118",
+    "firebase_url": "https://yepa-maleon-21-default-rtdb.firebaseio.com",
+    "project_id": "yepa-maleon-21",
+    "storage_bucket": "yepa-maleon-21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20050655118:android:1c11aa54a9ce16927056df",
+        "android_client_info": {
+          "package_name": "com.maleon.yepa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20050655118-a5evd1r5ke7jr09juod6o5otori7auie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maleon.yepa",
+            "certificate_hash": "069eecd2e534c87b267e4fe8a4f46615380c183d"
+          }
+        },
+        {
+          "client_id": "20050655118-p65tjdu2etb2jev8k753lo4g872hu615.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNaEq2ZH37Kjii1CHt9XMYpxkt2nsO7Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20050655118-p65tjdu2etb2jev8k753lo4g872hu615.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

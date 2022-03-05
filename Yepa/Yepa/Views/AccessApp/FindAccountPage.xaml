@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yepa.Views.AccessApp.FindAccountPage"
+             xmlns:d="http://xamarin.com/schemas/2014/forms"
+             xmlns:i18n="clr-namespace:Yepa.Helpers"
+             Background="{AppThemeBinding Dark=#111, Default=#FFF,Light=#FFF}">
+    <!--   {i18n:Translate Login}  -->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <Grid RowSpacing="50" Margin="30">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <!-- 0 -->
+                        <RowDefinition Height="Auto"/>
+                        <!-- 1 -->
+                        <RowDefinition Height="Auto"/>
+                        <!-- 2 -->
+                        <RowDefinition Height="Auto"/>
+                        <!-- 3 -->
+                        <RowDefinition Height="Auto"/>
+                        <!-- 4 -->
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Title -->
+                    <Label Text="{i18n:Translate Findaccount}" FontAttributes="Bold" FontSize="Title" Grid.Row="0"
+                           TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+
+                    <!-- Email -->
+                    <Frame HasShadow="true" Padding="8" CornerRadius="25" Grid.Row="1" 
+                           Background="{AppThemeBinding Dark=#444,Default=#FFF,Light=#FFF}">
+                        <Entry Placeholder="{i18n:Translate Email}" Keyboard="Email" MaxLength="25" FontSize="Subtitle"
+                               Text="{Binding Email_RPTxt, Mode=TwoWay}" IsEnabled="{Binding IsEnabledTxt}"
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                               PlaceholderColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                               Background="{AppThemeBinding Dark=#444,Default=#FFF,Light=#FFF}"/>
+                    </Frame>
+
+                    <!-- Button -->
+
+                    <Button Text="{i18n:Translate Findaccount}" Grid.Row="2" FontSize="Subtitle" 
+                            FontAttributes="Bold" CornerRadius="25"
+                            TextColor="{AppThemeBinding Dark=#000,Default=#FFF,Light=#FFF}" 
+                            Background="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" 
+                            BackgroundColor="{AppThemeBinding Dark=#000,Default=#FFF,Light=#FFF}"
+                            Command="{Binding ResetPasswordCommand}"
+                            IsEnabled="{Binding IsEnabledTxt, Mode=TwoWay}" />
+
+
+                    <!-- ActivityIndicator -->
+                    <ActivityIndicator IsRunning="{Binding IsRunningTxt}" IsVisible="{Binding IsVisibleTxt}" 
+                                       Grid.Row="3" HorizontalOptions="Center" 
+                                       Color="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
