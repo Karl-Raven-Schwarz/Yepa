@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yepa.Views.Home.HelpPage" 
+             Title="Preferences"
+             Background="{AppThemeBinding Dark=#111, Default=#FFF,Light=#FFF}" >
+    <NavigationPage.TitleView>
+        <Label Text="Help" TextColor="White" HorizontalTextAlignment="Center" FontSize="20" Margin="0, 0, 75, 0" />
+    </NavigationPage.TitleView>
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView ItemsSource="{Binding ListSettings}" HasUnevenRows="True"
+                      IsPullToRefreshEnabled="False" IsRefreshing="False"
+                      SeparatorColor="{AppThemeBinding Dark=#222, Default=#DDD,Light=#DDD}"
+                      x:Name="ListViewSettings" SelectionMode="None" IsEnabled="{Binding IsEnabled,Mode=OneWay}"
+                             >
+                <ListView.ItemTemplate >
+                    <DataTemplate  >
+                        <ViewCell>
+                            <Grid Margin="15,0" ColumnSpacing="20">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="70"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="40"/>
+                                    <ColumnDefinition Width="Auto"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Label FontFamily="FontFontello" Text="{Binding Icon}" FontSize="25" 
+                                       HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"
+                                       TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+
+                                <Label Grid.Column="1" VerticalOptions="Center" Text="{Binding Data}" FontSize="20" 
+                                       TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+                            </Grid>
+
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

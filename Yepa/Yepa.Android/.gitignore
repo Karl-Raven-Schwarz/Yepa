@@ -1,0 +1,5 @@
+.vs/
+bin/
+obj/
+google-services.json
+onesignal_crash_logcat.txt

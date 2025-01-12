@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yepa.Views.Home.ProfilePage" 
+             xmlns:Effects="clr-namespace:Yepa.Effects"
+             xmlns:Helpers="clr-namespace:Yepa.Helpers" 
+             xmlns:CircleImage="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+             IconImageSource="Icon_Home"
+             Background="{AppThemeBinding Dark=#181818, Default=#FFF,Light=#FFF}">
+    <ScrollView VerticalScrollBarVisibility="Never">
+        <Grid x:Name="ContentGrid" RowDefinitions="*,Auto,Auto,Auto" RowSpacing="5" ColumnDefinitions="Auto">
+           
+            <!--  Profile Image -->
+            <Grid x:Name="ImageGrid" Grid.Row="0" RowSpacing="0" Padding="0" 
+                  RowDefinitions=".5*,*,*" >
+                <BoxView Grid.Row="0" Grid.RowSpan="2" Margin="0"
+                         HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"
+                         BackgroundColor="{AppThemeBinding Dark=#000,Default=#000,Light=#000}" />
+                
+                <CircleImage:CircleImage Grid.Row="1" Grid.RowSpan="2" Aspect="AspectFill" BorderThickness="7.5"
+                                         HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" 
+                                         BorderColor="{AppThemeBinding Dark=#181818, Default=#FFF,Light=#FFF}"
+                                         Source="{AppThemeBinding Dark=Death.jpg, Default=Icon_User,Light=Death.jpg}" />
+
+                <ImageButton Grid.RowSpan="2" Source="Icon_EditProfile_Dark" BackgroundColor="#181818" 
+                             CornerRadius="25" Clicked="ImageButton_Clicked"
+                             HeightRequest="50" WidthRequest="50"
+                             HorizontalOptions="End" VerticalOptions="Start"/>
+            </Grid>
+            
+            <Label Grid.Row="1" FontSize="Title" FontAttributes="Bold"
+                       VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"
+                       TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" >
+                <Label.Text>
+                    <MultiBinding StringFormat="{}{0} {1}">
+                        <Binding Path="ClientRepository.FirstName"/>
+                        <Binding Path="ClientRepository.LastName" />
+                    </MultiBinding>
+                </Label.Text>
+            </Label>
+
+            <Grid Grid.Row="2" RowDefinitions="Auto,Auto,Auto,Auto,Auto,Auto">
+                <BoxView Grid.Row="0" BackgroundColor="LightGray" HeightRequest="1" Margin="25,0"/>
+
+                <Grid Grid.Row="1" Margin="15,5" RowDefinitions="Auto,Auto" ColumnDefinitions="40,*" RowSpacing="0">
+                    <Button BackgroundColor="{AppThemeBinding Dark=#181818, Default=#FFF,Light=#FFF}" 
+                                Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" 
+                                VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"
+                                Effects:LongPressedEffect.Command="{Binding CopyProfileDataCommand}"
+                                Effects:LongPressedEffect.CommandParameter="{Binding ClientRepository.Email}" >
+                        <Button.Effects>
+                            <Effects:LongPressedEffect />
+                        </Button.Effects>
+                    </Button>
+
+                    <Label Grid.Row="0" Grid.Column="0" InputTransparent="True" Text="&#xE809;" 
+                               FontFamily="FontFontello" FontSize="Large"
+                               HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+
+                    <StackLayout Grid.Row="0" Grid.Column="1" InputTransparent="True" Margin="0,7.5">
+                        <Label Text="{Helpers:Translate Email}" FontSize="Small" TextColor="#757575"/>
+
+                        <Label Text="{Binding ClientRepository.Email}" FontSize="Medium" 
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+                    </StackLayout>
+
+                    <Button BackgroundColor="{AppThemeBinding Dark=#181818, Default=#FFF,Light=#FFF}" 
+                                Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2" 
+                                VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"
+                                Effects:LongPressedEffect.Command="{Binding CopyProfileDataCommand}"
+                                Effects:LongPressedEffect.CommandParameter="{Binding ClientRepository.PhoneNumber}" >
+                        <Button.Effects>
+                            <Effects:LongPressedEffect/>
+                        </Button.Effects>
+                    </Button>
+
+                    <Label Grid.Row="1" Grid.Column="0" InputTransparent="True"
+                               Text="&#xE80B;" FontFamily="FontFontello" FontSize="Large"
+                               HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+
+                    <StackLayout Grid.Row="1" Grid.Column="1" InputTransparent="True" Margin="0,7.5">
+                        <Label Text="Número de Telefono" FontSize="Small" TextColor="#757575"/>
+
+                        <Label Text="{Binding ClientRepository.PhoneNumber}" 
+                                   FontSize="Medium" TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+                    </StackLayout>
+                </Grid>
+
+                <BoxView Grid.Row="3" BackgroundColor="LightGray" HeightRequest="1" Margin="25,0"/>
+
+                <Grid ColumnDefinitions="*,*" Margin="10" Grid.Row="4">
+                    <Label Text="Workers List" FontAttributes="Bold" FontSize="Medium" Grid.Column="0"
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" 
+                               VerticalOptions="Center" HorizontalOptions="Start" />
+
+                    <Button Text="View All" FontSize="Subtitle" Grid.Column="1" 
+                                VerticalOptions="Center" HorizontalOptions="End"
+                                TextColor="{AppThemeBinding Dark=#000,Default=#FFF,Light=#FFF}" 
+                                BackgroundColor="{AppThemeBinding Dark=#FFF, Default=#111,Light=#111}" />
+                </Grid>
+            </Grid>
+
+            <StackLayout Grid.Row="3" Padding="0" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                <CollectionView x:Name="CarouselViewWorkers"  ItemsSource="{Binding WorkerRepositories}"
+                                  IsEnabled="{Binding IsEnabled}" Margin="7.5,0" HeightRequest="210" >
+                    <CollectionView.ItemsLayout>
+                        <GridItemsLayout Orientation="Horizontal" HorizontalItemSpacing="5" />
+                    </CollectionView.ItemsLayout>
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Padding="0" Margin="0" IsClippedToBounds="True" ColumnDefinitions="150" 
+                                  RowDefinitions="200" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                                <Grid.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding Source={x:Reference CarouselViewWorkers}, Path=BindingContext.OpenWorkerProfileCommand}" 
+                                                          CommandParameter="{Binding .}"/>
+                                </Grid.GestureRecognizers>
+
+                                <ImageButton Aspect="AspectFill" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" 
+                                             BackgroundColor="{AppThemeBinding Dark=#7C7C7C,Light=#838383}"
+                                             Margin="1"  Source="{AppThemeBinding Dark=Icon_UserWorker_Dark,Light=Icon_UserWorker}"/>
+
+                                <StackLayout HorizontalOptions="Fill" VerticalOptions="End"
+                                             BackgroundColor="{AppThemeBinding Dark=#111,Light=#EEE}">
+                                    <Label FontAttributes="Bold" MaxLines="2" LineBreakMode="TailTruncation"
+                                           FontSize="15" HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+                                           TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}">
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="{Binding FirstName}" />
+                                                <Span Text=" " />
+                                                <Span Text="{Binding LastName}" />
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+
+                                    <Label HorizontalTextAlignment="Center" VerticalTextAlignment="Center"
+                                           MaxLines="1" LineBreakMode="TailTruncation" Text="{Binding Category}" 
+                                           FontSize="Small" TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+                                </StackLayout>
+                            </Grid>
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                </CollectionView>
+            </StackLayout>
+        </Grid>
+    </ScrollView>
+</ContentPage>

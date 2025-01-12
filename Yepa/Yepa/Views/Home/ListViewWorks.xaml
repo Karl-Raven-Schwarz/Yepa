@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yepa.Views.Home.ListViewWorks"
+             xmlns:Helpers="clr-namespace:Yepa.Helpers"
+             xmlns:Behaviors="clr-namespace:Yepa.Behaviors"
+             Title="{Helpers:Translate Search}" 
+             Background="{AppThemeBinding Dark=#111,Light=#FFF}">
+
+    <ContentPage.Content>
+        <Grid RowSpacing="0" RowDefinitions="Auto,Auto,Auto">
+            <SearchBar x:Name="searchBar" Keyboard="Text" Grid.Row="0" Margin="0,10" 
+                       Placeholder="{Helpers:Translate Search}" FontSize="15" SearchCommand="{Binding SearchCommand}"
+                       SearchCommandParameter="{Binding Text, Source={x:Reference searchBar}}"
+                       PlaceholderColor="{AppThemeBinding Dark=#FFF,Light=#000}"
+                       CancelButtonColor="{AppThemeBinding Dark=#FFF,Light=#000}"
+                       Background="{AppThemeBinding Dark=#333,Light=#FFF}"
+                       TextColor="{AppThemeBinding Dark=#FFF,Light=#000}"
+                       IsEnabled="{Binding IsEnabled}">
+                <SearchBar.Behaviors>
+                    <Behaviors:TextChangedBehavior/>
+                </SearchBar.Behaviors>
+            </SearchBar>
+
+            <ListView x:Name="ListViewWork" Grid.Row="1" ItemsSource="{Binding SearchResults}" HasUnevenRows="True" 
+                          IsRefreshing="False" IsPullToRefreshEnabled="False" SelectionMode="None" 
+                          IsEnabled="{Binding IsEnabled}" VerticalScrollBarVisibility="Never" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell Behaviors:TappedViewCellBehavior.CommandParameter="{Binding .}"
+                                  Behaviors:TappedViewCellBehavior.Command="{Binding Source={x:Reference ListViewWork}, Path=BindingContext.SelectSubcategoryCommand}">
+                            <Grid RowDefinitions="80" ColumnDefinitions="35,Auto" Margin="10,0" ColumnSpacing="10">
+                        <Image Source="{Binding Icon}" Grid.Column="0" Grid.Row="0" />
+
+                                <StackLayout Grid.Column="1" Grid.Row="0" HorizontalOptions="Center" 
+                                             VerticalOptions="Center" Orientation="Vertical" >
+                                    <Label Grid.Column="0" Text="{Binding Value}"  FontSize="17.5" FontAttributes="Bold"
+                                           TextColor="{AppThemeBinding Dark = #FFF , Default = #000 , Light = #000}"/>
+                                    
+                                    <Label Grid.Column="0" Text="{Binding Key}"  FontSize="15"
+                                           TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+                                </StackLayout>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <StackLayout Grid.Row="1" Grid.RowSpan="2" VerticalOptions="End" IsVisible="{Binding IsWorking}">
+                <Grid RowDefinitions="Auto">
+                    <BoxView BackgroundColor="Red" CornerRadius="25,25,0,0"/>
+                    <StackLayout Padding="15">
+                        <Label Text="{Binding TranslatedMessage}" TextColor="#FFFFFF" FontSize="15" />
+                        <Label Text="{Binding Message}" TextColor="#CCCCCC" FontSize="12.5"/>
+                    </StackLayout>
+                </Grid>
+            </StackLayout>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

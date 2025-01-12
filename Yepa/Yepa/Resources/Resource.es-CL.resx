@@ -1,0 +1,396 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Accept" xml:space="preserve">
+    <value>Aceptar</value>
+  </data>
+  <data name="AIAluminum" xml:space="preserve">
+    <value>Aluminio</value>
+  </data>
+  <data name="AICeramic" xml:space="preserve">
+    <value>Cerámica y gres porcelánico</value>
+  </data>
+  <data name="AIComputers" xml:space="preserve">
+    <value>Ordenadores</value>
+  </data>
+  <data name="AIDrywall" xml:space="preserve">
+    <value>Paneles de yeso (Drywall)</value>
+  </data>
+  <data name="AIElectrical" xml:space="preserve">
+    <value>Eléctricas</value>
+  </data>
+  <data name="AIHydraulics" xml:space="preserve">
+    <value>Hidráulicas</value>
+  </data>
+  <data name="AIMelamine" xml:space="preserve">
+    <value>Melamina</value>
+  </data>
+  <data name="AIWelding" xml:space="preserve">
+    <value>Soldadura</value>
+  </data>
+  <data name="Alert" xml:space="preserve">
+    <value>Aviso</value>
+  </data>
+  <data name="Aluminumjoinery" xml:space="preserve">
+    <value>Carpintería de aluminio</value>
+  </data>
+  <data name="AssemblyInstallation" xml:space="preserve">
+    <value>Montaje e instalación</value>
+  </data>
+  <data name="CalificationError" xml:space="preserve">
+    <value>Ya calificaste</value>
+  </data>
+  <data name="Categories" xml:space="preserve">
+    <value>Categorias</value>
+  </data>
+  <data name="Cellrepairmaintenance" xml:space="preserve">
+    <value>Celulares</value>
+  </data>
+  <data name="Ceramicporcelain" xml:space="preserve">
+    <value>Cerámico y porcelánico</value>
+  </data>
+  <data name="Chats" xml:space="preserve">
+    <value>Chats</value>
+  </data>
+  <data name="Computerassembly" xml:space="preserve">
+    <value>Ensamblaje de computadora</value>
+  </data>
+  <data name="Computerrepairmaintenance" xml:space="preserve">
+    <value>Computadoras</value>
+  </data>
+  <data name="Confection" xml:space="preserve">
+    <value>Confección</value>
+  </data>
+  <data name="Confirmaccount" xml:space="preserve">
+    <value>Confirme su cuenta</value>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Contactar</value>
+  </data>
+  <data name="Continue" xml:space="preserve">
+    <value>Continuar</value>
+  </data>
+  <data name="Createaccount" xml:space="preserve">
+    <value>Crear cuenta</value>
+  </data>
+  <data name="Createnewaccount" xml:space="preserve">
+    <value>Crear nueva cuenta</value>
+  </data>
+  <data name="CSuits" xml:space="preserve">
+    <value>Trajes</value>
+  </data>
+  <data name="CUniforms" xml:space="preserve">
+    <value>Uniformes</value>
+  </data>
+  <data name="DataError" xml:space="preserve">
+    <value>Los datos están ingresados incorrectamente</value>
+  </data>
+  <data name="Domesticelectricalinstallation" xml:space="preserve">
+    <value>Instalacion electrica doméstica</value>
+  </data>
+  <data name="Domestichydraulicinstallation" xml:space="preserve">
+    <value>Instalación hidráulica doméstica</value>
+  </data>
+  <data name="DrywallConstruction" xml:space="preserve">
+    <value>Construcción de paneles de yeso (Drywall)</value>
+  </data>
+  <data name="Editprofile" xml:space="preserve">
+    <value>Editar perfil</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Correo electrónico</value>
+  </data>
+  <data name="EmailError" xml:space="preserve">
+    <value>Debe introducir un correo electrónico</value>
+  </data>
+  <data name="Emailnotactive" xml:space="preserve">
+    <value>Tu correo electrónico no está verificado, ¿quieres volver a enviar el enlace de verificación?</value>
+  </data>
+  <data name="Entercode" xml:space="preserve">
+    <value>Ingrese el código</value>
+  </data>
+  <data name="Entercodesent" xml:space="preserve">
+    <value>Ingrese el código que le enviamos</value>
+  </data>
+  <data name="Enternewpassword" xml:space="preserve">
+    <value>Ingresa tu nueva contraseña</value>
+  </data>
+  <data name="Error" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="Findaccount" xml:space="preserve">
+    <value>Encuentra tu cuenta</value>
+  </data>
+  <data name="Firstname" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="FirstnameError" xml:space="preserve">
+    <value>Debes ingresar tu nombre de pila</value>
+  </data>
+  <data name="Forgotpassword" xml:space="preserve">
+    <value>¿Olvidó la contraseña?</value>
+  </data>
+  <data name="Freighttransport" xml:space="preserve">
+    <value>Transporte de carga</value>
+  </data>
+  <data name="GetLocation" xml:space="preserve">
+    <value>Obteniendo ubicación ...</value>
+  </data>
+  <data name="GetLocationError" xml:space="preserve">
+    <value>Error al obtener la ubicación</value>
+  </data>
+  <data name="Givelocation" xml:space="preserve">
+    <value>¿Estás de acuerdo en dar tu ubicación?</value>
+  </data>
+  <data name="Haveacount" xml:space="preserve">
+    <value>¿Ya tienes una cuenta?</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Inicio</value>
+  </data>
+  <data name="Invalidlogin" xml:space="preserve">
+    <value>Usuario o contraseña no válidos</value>
+  </data>
+  <data name="Lastname" xml:space="preserve">
+    <value>Apellidos</value>
+  </data>
+  <data name="LastnameError" xml:space="preserve">
+    <value>Debes ingresar tu apellido</value>
+  </data>
+  <data name="LocationError" xml:space="preserve">
+    <value>Es necesario saber tu ubicación</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Iniciar sesión</value>
+  </data>
+  <data name="Logout" xml:space="preserve">
+    <value>Cerrar sesión</value>
+  </data>
+  <data name="Makinguniforms" xml:space="preserve">
+    <value>Uniformes</value>
+  </data>
+  <data name="MelamineFurniture" xml:space="preserve">
+    <value>Muebles de melamina</value>
+  </data>
+  <data name="Metalconstructions" xml:space="preserve">
+    <value>Construcciones de metal</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Nombre y apellido</value>
+  </data>
+  <data name="Newpassword" xml:space="preserve">
+    <value>Contraseña nueva</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="Ok" xml:space="preserve">
+    <value>De acuerdo</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Contraseña</value>
+  </data>
+  <data name="PasswordError" xml:space="preserve">
+    <value>Debe escribir una contraseña</value>
+  </data>
+  <data name="Personaltransportation" xml:space="preserve">
+    <value>Transporte personal (taxi)</value>
+  </data>
+  <data name="Printerrepairmaintenance" xml:space="preserve">
+    <value>Impresoras</value>
+  </data>
+  <data name="Qualify" xml:space="preserve">
+    <value>Calificar</value>
+  </data>
+  <data name="Registernow" xml:space="preserve">
+    <value>Regístrese ahora</value>
+  </data>
+  <data name="RepairMaintenance" xml:space="preserve">
+    <value>Reparación y mantenimiento</value>
+  </data>
+  <data name="Repairmaintenancehouseholdappliances" xml:space="preserve">
+    <value>Electrodomésticos</value>
+  </data>
+  <data name="RPCellphones" xml:space="preserve">
+    <value>Celulares</value>
+  </data>
+  <data name="RPComputers" xml:space="preserve">
+    <value>Ordenadores</value>
+  </data>
+  <data name="RPPrinters" xml:space="preserve">
+    <value>Impresoras</value>
+  </data>
+  <data name="Search" xml:space="preserve">
+    <value>Buscar</value>
+  </data>
+  <data name="Securitycameras" xml:space="preserve">
+    <value>Cámaras de seguridad</value>
+  </data>
+  <data name="Settings" xml:space="preserve">
+    <value>Ajustes</value>
+  </data>
+  <data name="Signincontinue" xml:space="preserve">
+    <value>Inicia sesión para continuar</value>
+  </data>
+  <data name="SingupVerification" xml:space="preserve">
+    <value>Se ha enviado un correo electrónico con un enlace de verificación a su correo electrónico, presiónalo para iniciar sesión</value>
+  </data>
+  <data name="TPersonalTransportation" xml:space="preserve">
+    <value>Transporte personal</value>
+  </data>
+  <data name="Transport" xml:space="preserve">
+    <value>Transporte</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Nombre de usuario</value>
+  </data>
+  <data name="UsernameError" xml:space="preserve">
+    <value>Debes ingresar un nombre de usuario</value>
+  </data>
+  <data name="Welcome" xml:space="preserve">
+    <value>Bienvenido</value>
+  </data>
+  <data name="Welcomeback" xml:space="preserve">
+    <value>Bienvenido de nuevo</value>
+  </data>
+  <data name="Welding" xml:space="preserve">
+    <value>Soldadura</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Sí</value>
+  </data>
+  <data name="Yourapp" xml:space="preserve">
+    <value>a tu aplicación</value>
+  </data>
+  <data name="RPHomeappliances" xml:space="preserve">
+    <value>Electrodomésticos</value>
+  </data>
+  <data name="AIMetalconstructions" xml:space="preserve">
+    <value>Construcciones de metal</value>
+  </data>
+  <data name="AISecuritycameras" xml:space="preserve">
+    <value>Cámaras de seguridad</value>
+  </data>
+  <data name="TFreighttransportation" xml:space="preserve">
+    <value>Transporte de carga</value>
+  </data>
+  <data name="Suits" xml:space="preserve">
+    <value>Trajes</value>
+  </data>
+</root>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage 
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+    xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+    x:Class="Yepa.Views.Popup.AlertPopup"
+    NavigationPage.HasBackButton="True">
+    <!--You can set an animation in the xaml file or in the csharp code behind-->
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation 
+            PositionIn="Center" PositionOut="Center"
+            DurationIn="200" DurationOut="200"
+            HasBackgroundAnimation="True"/>
+    </pages:PopupPage.Animation>
+    <!--You can use any elements here which are extended from Xamarin.Forms.View-->
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Padding="20" Margin="25,50" 
+                 Background="{AppThemeBinding Dark=#222, Default=#FFF,Light=#FFF}" >
+        <Grid RowDefinitions="Auto,Auto,Auto">
+            <Label x:Name="TitlePopup" FontSize="Title" Grid.Row="0"
+                   TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+
+            <Label x:Name="Message" FontSize="Body" Grid.Row="1"
+                   TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+
+            <Grid Grid.Row="2" ColumnDefinitions="*,*">
+                <Button x:Name="Cancel" Grid.Column="0" Clicked="Cancel_Clicked"
+                        TextColor="{AppThemeBinding Dark=#000,Default=#FFF,Light=#FFF}"
+                        BackgroundColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+
+                <Button x:Name="Accept" Grid.Column="1" Clicked="Accept_Clicked"
+                        TextColor="{AppThemeBinding Dark=#000,Default=#FFF,Light=#FFF}"
+                        BackgroundColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+            </Grid>
+       </Grid>
+    </StackLayout>
+</pages:PopupPage>
+ 

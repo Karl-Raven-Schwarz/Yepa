@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:Behaviors="clr-namespace:Yepa.Behaviors"
+             x:Class="Yepa.Views.Home.ListViewChats"
+             IconImageSource="Icon_Chats"
+             Background="{AppThemeBinding Dark=#111,Light=#FFF}">
+
+    <ContentPage.Content>
+        <Grid RowDefinitions="Auto" ColumnDefinitions="Auto">
+            <ListView x:Name="ListViewChat" ItemsSource="{Binding ChatModels}" HasUnevenRows="True" SelectionMode="None"
+                      SeparatorColor="{AppThemeBinding Dark=#222,Light=#DDD}" IsPullToRefreshEnabled="False"
+                      IsRefreshing="False" IsEnabled="{Binding IsEnabled}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell 
+                            Behaviors:TappedViewCellBehavior.Command="{Binding Source={x:Reference ListViewChat}, Path=BindingContext.OpenChatCommand}"
+                            Behaviors:TappedViewCellBehavior.CommandParameter="{Binding Info}">
+                            <Grid Margin="10,0" RowDefinitions="70" ColumnDefinitions="60,Auto,*">
+                                <ImageButton Source="{AppThemeBinding Dark=Icon_UserWorker_Dark,Light=Icon_UserWorker}"
+                                             Grid.Column="0" Padding="5" Background="Transparent"
+                                             BackgroundColor="{AppThemeBinding Dark=#111,Light=#FFF}"
+                                             Command="{Binding Source={x:Reference ListViewChat}, Path=BindingContext.OpenWorkerProfileCommand}"
+                                             CommandParameter="{Binding Info.WorkerID}"/>
+
+                                <Label Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center" Text="{Binding Info.WorkerName}" 
+                                       FontSize="17.5" TextColor="{AppThemeBinding Dark=#FFF,Light=#000}" FontAttributes="Bold"/>
+
+                                <StackLayout  Grid.Column="2" HorizontalOptions="EndAndExpand"  Margin="0,5,7.5,2">
+                                    <Label Text="{Binding Connection.ModificationDate}" FontSize="10"
+                                           TextColor="{AppThemeBinding Dark=#FFF,Light=#000}"/>
+                                        
+                                    <Label HorizontalOptions="EndAndExpand"  Text="●" FontSize="30"  TextColor="#5DDC30" 
+                                           FontAttributes="Bold" IsVisible="{Binding IsVisible}"/>
+                                </StackLayout>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

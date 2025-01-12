@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:PopupPage 
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:pages="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+    xmlns:animations="clr-namespace:Rg.Plugins.Popup.Animations;assembly=Rg.Plugins.Popup"
+    x:Class="Yepa.Views.Popup.MessageSelectedPopup" >
+    <!--You can set an animation in the xaml file or in the csharp code behind-->
+    <pages:PopupPage.Animation>
+        <animations:ScaleAnimation 
+            PositionIn="Bottom" PositionOut="Bottom"
+            DurationIn="200" DurationOut="200"
+            HasBackgroundAnimation="True"/>
+    </pages:PopupPage.Animation>
+    <!--You can use any elements here which are extended from Xamarin.Forms.View-->
+    <StackLayout  BackgroundColor="#000" VerticalOptions="End" >
+        <Grid RowDefinitions="Auto" ColumnDefinitions="*,*,*" Padding="5">
+
+            <ImageButton Padding="8" Grid.Column="0" BackgroundColor="#000" Clicked="BackButton"
+                         IsEnabled="{Binding IsEnabled}" HorizontalOptions="Center" VerticalOptions="Center" >
+                <ImageButton.Source>
+                    <FontImageSource Glyph="&#xE80F;" FontFamily="FontFontello" Color="#FFF"/>
+                </ImageButton.Source>
+            </ImageButton>
+
+            <ImageButton Padding="8" Grid.Column="1" BackgroundColor="#000" Clicked="CopyMessage"
+                         IsEnabled="{Binding IsEnabled}" HorizontalOptions="Center" VerticalOptions="Center" >
+                <ImageButton.Source>
+                    <FontImageSource Glyph="&#xF0C5;" FontFamily="FontFontello" Color="#FFF"/>
+                </ImageButton.Source>
+            </ImageButton>
+
+            <ImageButton Padding="8" Grid.Column="2" BackgroundColor="#000" Clicked="InfoButton"
+                         IsEnabled="{Binding IsEnabled}" HorizontalOptions="Center" VerticalOptions="Center" >
+                <ImageButton.Source>
+                    <FontImageSource Glyph="&#xE807;" FontFamily="FontFontello" Color="#FFF"/>
+                </ImageButton.Source>
+            </ImageButton>
+
+        </Grid>
+    </StackLayout>
+</pages:PopupPage>
+ 

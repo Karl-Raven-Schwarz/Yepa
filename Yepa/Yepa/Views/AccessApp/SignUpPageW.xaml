@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Helpers="clr-namespace:Yepa.Helpers"
+             xmlns:Effect="clr-namespace:Yepa.Effects" 
+             xmlns:ViewModels="clr-namespace:Yepa.ViewModels"
+             x:Class="Yepa.Views.AccessApp.SignUpPageW"
+             IconImageSource="Icon_Settings"
+             Background="{AppThemeBinding Dark=#111,Light=#FFF}">
+    <!--   {i18n:Translate Login}  -->
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Margin="30,20" Spacing="17">
+                <!-- Logo -->
+                <Label Text=" Yepa " FontSize="45" FontAttributes="Bold" Padding="-4,-8,-4,-4" HorizontalOptions="Center" 
+                       TextColor="{AppThemeBinding Dark=#000,Light=#FFF}" BackgroundColor="{AppThemeBinding Dark=#FFF,Light=#000}"/>
+
+                <!-- Title -->
+                <Label Text="{Helpers:Translate Text=Login}" TextColor="{AppThemeBinding Dark=#FFF,Light=#000}" 
+                       FontSize="25" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Start"/>
+
+                <!-- Email -->
+                <Entry Placeholder="{Helpers:Translate Text=Email}" Keyboard="Email" MaxLength="25" ClearButtonVisibility="WhileEditing" 
+                       FontSize="18" Text="{Binding WorkerInfoModel.StaticInfo.Email}" IsEnabled="{Binding IsEnabled}" />
+
+                <!-- Password -->
+                <StackLayout Orientation="Horizontal" Spacing="2.5">
+                    <Entry x:Name="Password" Placeholder="Password" MaxLength="25" IsPassword="{Binding Source={x:Reference ShowPasswordActualTrigger},Path=HidePassword}" 
+                           FontSize="18" Text="{Binding Password}" VerticalOptions="Center" IsEnabled="{Binding IsEnabled}" HorizontalOptions="FillAndExpand"/>
+
+                    <ImageButton HeightRequest="{Binding Source={x:Reference Password}, Path=Height}" 
+                                 WidthRequest="{Binding Source={x:Reference Password}, Path=Height}" 
+                                 HorizontalOptions="End" VerticalOptions="Center" CornerRadius="25"
+                                 BackgroundColor="{AppThemeBinding Dark=#111,Light=#FFF}" Padding="5" Source="Icon_ShowPassword">
+                        <ImageButton.Triggers>
+                            <EventTrigger Event="Clicked">
+                                <Effect:ShowPasswordTriggerAction ShowIcon="Icon_ShowPassword"
+                                                                  HideIcon="Icon_HidePassword"
+                                                                  x:Name="ShowPasswordActualTrigger"/>
+                            </EventTrigger>
+                        </ImageButton.Triggers>
+                    </ImageButton>
+                </StackLayout>
+
+                <!-- Confirm Password -->
+                <StackLayout Orientation="Horizontal" Spacing="5">
+                    <Entry Placeholder="Confirm Password" MaxLength="25" IsPassword="{Binding Source={x:Reference ShowPasswordActualTrigger2}, Path=HidePassword}"
+                           FontSize="18" Text="{Binding ConfirmPassword}" VerticalOptions="Center" IsEnabled="{Binding IsEnabled}" HorizontalOptions="FillAndExpand"/>
+
+                    <ImageButton HeightRequest="30" WidthRequest="30" HorizontalOptions="End" VerticalOptions="Center" BackgroundColor="Transparent">
+                        <ImageButton.Source>
+                            <FontImageSource Glyph="O" Color="Red"/>
+                        </ImageButton.Source>
+                        <ImageButton.Triggers>
+                            <EventTrigger Event="Clicked">
+                                <Effect:ShowPasswordTriggerAction ShowIcon="Icon_ShowPassword"
+                                                                  HideIcon="Icon_HidePassword"
+                                                                  x:Name="ShowPasswordActualTrigger2"/>
+                            </EventTrigger>
+                        </ImageButton.Triggers>
+                    </ImageButton>
+                </StackLayout>
+
+                <!-- Firstname -->
+                <Entry Placeholder="{Helpers:Translate Firstname}" MaxLength="20" FontSize="18" Keyboard="Default"
+                       TextColor="{AppThemeBinding Dark=#FFF,Light=#000}" PlaceholderColor="{AppThemeBinding Dark=#FFF,Light=#000}"
+                       Text="{Binding WorkerInfoModel.SimpleInfo.FirstName}" IsEnabled="{Binding IsEnabled}" />
+
+                <!-- Lastname -->
+                <Entry Placeholder="{Helpers:Translate Lastname}" MaxLength="20" FontSize="18" Keyboard="Text"
+                       TextColor="{AppThemeBinding Dark=#FFF,Light=#000}" PlaceholderColor="{AppThemeBinding Dark=#FFF,Light=#000}"
+                       Text="{Binding WorkerInfoModel.SimpleInfo.LastName}" IsEnabled="{Binding IsEnabled}" />
+
+                <!-- PhoneCode -->
+                <StackLayout Orientation="Horizontal" Spacing="7.5">
+                    <ImageButton HeightRequest="30" WidthRequest="30" Command="{Binding GetPhoneCodeCommand}"
+                                 BackgroundColor="{AppThemeBinding Dark=#333,Light=#F8F8F8F8}" Padding="7.5"
+                                 VerticalOptions="Center" HorizontalOptions="Center">
+                        <ImageButton.Source>
+                            <FontImageSource Glyph="▼" Color="Gray"/>
+                        </ImageButton.Source>
+                    </ImageButton>
+
+                    <Label TextColor="{AppThemeBinding Dark=#FFF,Light=#000}"
+                           FontSize="17" VerticalOptions="Center">
+                        <Label.Text>
+                            <MultiBinding StringFormat="{}({0}) - ({1})">
+                                <Binding Path="CountryModelPhone.Name"/>
+                                <Binding Path="CountryModelPhone.PhoneCode"/>
+                            </MultiBinding>
+                        </Label.Text>
+                    </Label>
+                </StackLayout>
+
+                <Entry Placeholder="{Binding CountryModelPhone.PhoneFormat}" FontSize="18" Keyboard="Numeric" MaxLength="15"
+                           IsEnabled="{Binding IsEnabled}" TextColor="{AppThemeBinding Dark=#FFF,Light=#000}" HorizontalOptions="FillAndExpand"
+                           Effect:PhoneNumberMaskBehavior.Mask="{Binding CountryModelPhone.PhoneFormat}">
+                </Entry>
+
+                <Entry  FontSize="18" Keyboard="Numeric" Text="{Binding PhoneNumber}"
+                       MaxLength="15"
+                           IsEnabled="{Binding IsEnabled}" TextColor="{AppThemeBinding Dark=#FFF,Light=#000}" HorizontalOptions="FillAndExpand">
+                    <Entry.Behaviors>
+                        <Effect:PhoneNumberMaskBehavior2 Mask="{Binding CountryModelPhone.PhoneFormat}" />
+                    </Entry.Behaviors>
+                </Entry>
+                
+                <!-- Category -->
+                <StackLayout Orientation="Horizontal" Spacing="7.5">
+                    <ImageButton HeightRequest="30" WidthRequest="30" Command="{Binding GetCategoryCommand}"
+                                 BackgroundColor="{AppThemeBinding Dark=#333,Light=#F8F8F8}" Padding="7.5"
+                                 VerticalOptions="Center" HorizontalOptions="Center">
+                        <ImageButton.Source>
+                            <FontImageSource Glyph="▼" Color="Gray"/>
+                        </ImageButton.Source>
+                    </ImageButton>
+
+                    <Entry Placeholder="Select Category" FontSize="18" Keyboard="Text" IsReadOnly="True" 
+                           PlaceholderColor="{AppThemeBinding Dark=#FFF,Light=#000}" TextColor="{AppThemeBinding Dark=#FFF,Light=#000}"
+                           Text="{Binding Category}" IsEnabled="{Binding IsEnabled}" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" Spacing="7.5">
+                    <ImageButton HeightRequest="30" WidthRequest="30" Command="{Binding GetSubCategoryCommand}"
+                                 BackgroundColor="{AppThemeBinding Dark=#333,Light=#F8F8F8}" Padding="7.5"
+                                 VerticalOptions="Center" HorizontalOptions="Center">
+                        <ImageButton.Source>
+                            <FontImageSource Glyph="▼" Color="Gray"/>
+                        </ImageButton.Source>
+                    </ImageButton>
+
+                    <Entry Placeholder="Select Subcategory" FontSize="18" Keyboard="Text" IsReadOnly="True"
+                           TextColor="{AppThemeBinding Dark=#FFF,Light=#000}" PlaceholderColor="{AppThemeBinding Dark=#FFF,Light=#000}"
+                           Text="{Binding SubCategory}" IsEnabled="{Binding IsEnabled}" HorizontalOptions="FillAndExpand"/>
+                </StackLayout>
+
+                <!-- Country -->
+                <StackLayout Orientation="Horizontal" Spacing="7.5">
+                    <ImageButton HeightRequest="30" WidthRequest="30" Command="{Binding GetCountryCodeCommand}"
+                                 BackgroundColor="{AppThemeBinding Dark=#333,Light=#F8F8F8}" Padding="7.5"
+                                 VerticalOptions="Center" HorizontalOptions="Center">
+                        <ImageButton.Source>
+                            <FontImageSource Glyph="▼" Color="Gray"/>
+                        </ImageButton.Source>
+                    </ImageButton>
+
+                    <Entry Placeholder="Select Subcategory" FontSize="18" Keyboard="Text" IsReadOnly="True"
+                               TextColor="{AppThemeBinding Dark=#FFF,Light=#000}" HorizontalOptions="FillAndExpand"
+                               PlaceholderColor="{AppThemeBinding Dark=#FFF,Light=#000}" IsEnabled="{Binding IsEnabled}" >
+                        <Entry.Text>
+                            <MultiBinding StringFormat="{}({0}) - {1}">
+                                <Binding Path="CountryModelCountry.Code"/>
+                                <Binding Path="CountryModelCountry.Name" />
+                            </MultiBinding>
+                        </Entry.Text>
+                    </Entry>
+                </StackLayout>
+
+                <!-- Ubication -->
+                <StackLayout Orientation="Horizontal" Spacing="10" >
+                    <CheckBox IsChecked="{Binding IsCheked}" IsEnabled="{Binding IsEnabled}" HorizontalOptions="Center"
+                              VerticalOptions="Center" Color="{AppThemeBinding Dark=#FFF,Light=#000}"/>
+                    
+                    <Label Text="{Helpers:Translate Givelocation}" VerticalOptions="Center" HorizontalOptions="Start"
+                           TextColor="{AppThemeBinding Dark=#FFF,Light=#000}" FontSize="13" />
+                </StackLayout>
+
+                <!-- Conditions -->
+                <Label IsEnabled="{Binding IsEnabled}">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span  Text="Al hacer clic en " />
+                            <Span  Text="{Helpers:Translate Createaccount}" FontAttributes="Bold"/>
+                            <Span  Text=", aceptas las Condiciones, la Política de datos y la Política de cookies." />
+                            <Span Text="Condiciones" TextDecorations="Underline"  TextColor="#000" >
+                                <Span.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding GoGoogleCommand}"/>
+                                </Span.GestureRecognizers>
+                            </Span>
+                            <Span Text=", la "/>
+                            <Span Text="Política" TextDecorations="Underline" TextColor="#000" >
+                                <Span.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding GoGoogleCommand}"/>
+                                </Span.GestureRecognizers>
+                            </Span>
+                            <Span Text=" de datos."/>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+
+                <!-- Buttons -->
+                <Button Text="{Helpers:Translate Createaccount}" FontSize="15" CornerRadius="25" FontAttributes="Bold" 
+                        Command="{Binding SignUpCommand}" IsEnabled="{Binding IsEnabled}" TextColor="{AppThemeBinding Dark=#000,Light=#FFF}" 
+                        BackgroundColor="{AppThemeBinding Dark=#FFF,Light=#000}"/>
+
+                <Button Text="{Helpers:Translate Haveacount}" FontSize="15" CornerRadius="25" FontAttributes="Bold" 
+                        Command="{Binding LogInCommand}" IsEnabled="{Binding IsEnabled}" TextColor="{AppThemeBinding Dark=#000,Light=#FFF}" 
+                        BackgroundColor="{AppThemeBinding Dark=#FFF,Light=#000}"/>
+
+                <!-- ActivityIndicator -->
+                <ActivityIndicator IsRunning="{Binding Loading}" IsVisible="{Binding Loading}" Color="{AppThemeBinding Dark=#FFF,Light=#000}" />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

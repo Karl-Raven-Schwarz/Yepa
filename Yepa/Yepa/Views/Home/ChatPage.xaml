@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yepa.Views.Home.ChatPage"
+             BackgroundColor="{AppThemeBinding Dark=#111,Light=#FFF}"
+             xmlns:Effects="clr-namespace:Yepa.Effects"
+             xmlns:Renderers="clr-namespace:Yepa.Renderers"
+             xmlns:Behaviors="clr-namespace:Yepa.Behaviors"
+             NavigationPage.HasNavigationBar="True"
+             NavigationPage.HasBackButton="False"
+             xmlns:local="clr-namespace:Yepa.Views.Home"
+             Behaviors:OnDisappearingBehavior.Command="{Binding CloseCommand}">
+    
+    <NavigationPage.TitleView>
+        <Grid ColumnDefinitions="Auto,*,50" >
+            <Image Source="{AppThemeBinding Dark=Icon_UserWorker_Dark,Light=Icon_UserWorker}"
+                   Grid.Column="0" HeightRequest="40" HorizontalOptions="Start" />
+
+            <StackLayout Grid.Column="1" Spacing="0" VerticalOptions="Center" HorizontalOptions="Start">
+                <Label Text="{Binding ChatInfo.WorkerName}" TextColor="#FFf" 
+                       FontAttributes="Bold" FontSize="Medium" MaxLines="1" 
+                       HorizontalTextAlignment="Start" LineBreakMode="TailTruncation" >
+                    <Label.GestureRecognizers>
+                        <TapGestureRecognizer Command="{Binding OpenWorkerProfileCommand}"/>
+                    </Label.GestureRecognizers>
+                </Label>
+
+                <StackLayout Orientation="Horizontal">
+                    <Frame BackgroundColor="#000" CornerRadius="100" HeightRequest="10" WidthRequest="10"
+                           Padding="0" HorizontalOptions="Center" VerticalOptions="Center">
+                        <Frame.Triggers>
+                            <DataTrigger TargetType="Frame"
+                                         Binding="{Binding Source={x:Reference EntryConnection}, Path=Text}"
+                                         Value="Conectado">
+                                <Setter Property="BackgroundColor" Value="LightGreen" />
+                            </DataTrigger>
+
+                            <DataTrigger TargetType="Frame"
+                                         Binding="{Binding Source={x:Reference EntryConnection}, Path=Text}"
+                                         Value="Desconectado">
+                                <Setter Property="BackgroundColor" Value="Red" />
+                            </DataTrigger>
+                        </Frame.Triggers>
+                    </Frame>
+
+                    <Label x:Name="EntryConnection" Text="{Binding ConnectionState}" TextColor="#FFf" FontSize="Micro" HorizontalTextAlignment="Start" />
+                </StackLayout>
+            </StackLayout>
+
+            <Button Text="&#xE80B;" FontFamily="FontFontello" Command="{Binding CallCommand}" CornerRadius="100"
+                    Grid.Column="2" HorizontalOptions="End" FontSize="25" TextColor="#FFF" BackgroundColor="#000"/>
+        </Grid>
+    </NavigationPage.TitleView>
+
+    <ContentPage.Resources>
+        <local:UtcToLocalDateTimeConverter x:Key="UtcToLocalDateTimeConverter" />
+        <ResourceDictionary>
+            <DataTemplate x:Key="template">
+                <ViewCell>
+                    <Grid Padding="12.5,2.5" RowDefinitions="Auto" RowSpacing="0">
+                        <Grid.Effects>
+                            <Effects:ShortPressedEffect/>
+                        </Grid.Effects>
+                        <Grid Margin="0" HorizontalOptions="Center">
+                            <BoxView BackgroundColor="White" CornerRadius="15"/>
+                            <StackLayout Padding="12,6" Spacing="-2" >
+                                <Label FontSize="{Binding Source={x:Reference ListChat}, Path=BindingContext.FontSize}"
+                                       HorizontalTextAlignment="Start" LineBreakMode="WordWrap"
+                                       TextColor="Gray" Text="{Binding CreationDate, Converter={StaticResource UtcToLocalDateTimeConverter}, StringFormat='{0:MMMM dd, yyyy}'}" >
+                                </Label>
+                                <Label FontSize="{Binding Source={x:Reference ListChat}, Path=BindingContext.TimeFontSize}"
+                                       TextColor="Gray"
+                                       FontAttributes="Italic" HorizontalTextAlignment="End" Text="{Binding CreationDate, Converter={StaticResource UtcToLocalDateTimeConverter}, StringFormat='{0:h:mm tt}'}"/>
+                            </StackLayout>
+
+                        </Grid>
+
+                    </Grid>
+                </ViewCell>
+            </DataTemplate>
+            <DataTemplate x:Key="workerTemplate">
+                <ViewCell>
+                    <Grid Padding="12.5,2.5" RowDefinitions="Auto" RowSpacing="0">
+                        <Grid.Effects>
+                            <Effects:LongPressedEffect/>
+                        </Grid.Effects>
+                        
+                        <Grid Margin="0,0,50,0" HorizontalOptions="Start" 
+                              Effects:LongPressedEffect.Command="{Binding Source={x:Reference ListChat}, Path=BindingContext.MessageLongPressedCommand}"
+                              Effects:LongPressedEffect.CommandParameter="{Binding .}">
+                            <Grid.Effects>
+                                <Effects:LongPressedEffect />
+                            </Grid.Effects>
+                            
+                            <BoxView BackgroundColor="#DEDEDE" VerticalOptions="Center" HorizontalOptions="Start" 
+                                     HeightRequest="15" WidthRequest="15" TranslationX="-2.75" Rotation="45"/>
+
+                            <Frame BackgroundColor="#DEDEDE" Padding="0" Margin="0" 
+                                   CornerRadius="{Binding Source={x:Reference ListChat}, Path=BindingContext.CornerRadius}"/>
+                            
+                            <StackLayout Padding="12,6" Spacing="-2" >
+                                <Renderers:HyperLinkLabel FontSize="{Binding Source={x:Reference ListChat}, Path=BindingContext.FontSize}"
+                                                          HorizontalTextAlignment="Start" LineBreakMode="WordWrap" TextColor="#000" 
+                                                          LongCommand ="{Binding Source={x:Reference ListChat}, Path=BindingContext.MessageShortPressedCommand}"
+                                                          LongCommandParameter="{Binding Message}"
+                                                          Text="{Binding Message}" Command="{Binding Source={x:Reference ListChat}, Path=BindingContext.MessageShortPressedCommand}">
+                                </Renderers:HyperLinkLabel>
+                                <Label FontSize="{Binding Source={x:Reference ListChat}, Path=BindingContext.TimeFontSize}"
+                                       TextColor="#181818"
+                                       FontAttributes="Italic" HorizontalTextAlignment="End" Text="{Binding CreationDate ,Converter={StaticResource UtcToLocalDateTimeConverter}, StringFormat='{0:h:mm tt}'}"/>
+                            </StackLayout>
+                        </Grid>
+                    </Grid>
+                </ViewCell>
+            </DataTemplate>
+            <DataTemplate x:Key="clientTemplate">
+                <ViewCell>
+                    <Grid Padding="12.5,2.5" RowDefinitions="Auto" RowSpacing="0"
+                          Effects:LongPressedEffect.Command="{Binding Source={x:Reference ListChat}, Path=BindingContext.MessageLongPressedCommand}"
+                          Effects:LongPressedEffect.CommandParameter="{Binding .}">
+                        <Grid.Effects>
+                            <Effects:LongPressedEffect/>
+                        </Grid.Effects>
+                        
+                        <Grid Margin="50,0,0,0" HorizontalOptions="End">
+                            <BoxView BackgroundColor="DodgerBlue" VerticalOptions="Center" HorizontalOptions="End" 
+                                     HeightRequest="15" WidthRequest="15" TranslationX="2.75" Rotation="45"/>
+
+                            <Frame BackgroundColor="DodgerBlue" Padding="0" Margin="0" 
+                                   CornerRadius="{Binding Source={x:Reference ListChat}, Path=BindingContext.CornerRadius}"/>
+                            
+                            <StackLayout Padding="12,6" Spacing="-2" >
+                                <Renderers:HyperLinkLabel FontSize="{Binding Source={x:Reference ListChat}, Path=BindingContext.FontSize}"
+                                                          HorizontalTextAlignment="Start" LineBreakMode="WordWrap" TextColor="#FFF"
+                                                          LongCommand ="{Binding Source={x:Reference ListChat}, Path=BindingContext.MessageShortPressedCommand}"
+                                                          LongCommandParameter="{Binding Message}"
+                                                          Text="{Binding Message}" Command="{Binding Source={x:Reference ListChat}, Path=BindingContext.MessageShortPressedCommand}">
+                                </Renderers:HyperLinkLabel>
+                                <Label FontSize="{Binding Source={x:Reference ListChat}, Path=BindingContext.TimeFontSize}"
+                                       TextColor="#F8F8F8" FontAttributes="Italic" HorizontalTextAlignment="End" 
+                                       Text="{Binding CreationDate,Converter={StaticResource UtcToLocalDateTimeConverter},StringFormat='{0:h:mm tt}'}"/>
+                            </StackLayout>
+                        </Grid>
+                    </Grid>
+                </ViewCell>
+            </DataTemplate>
+            <local:MessageDataTemplateSelector x:Key="messageDataTemplateSelector"
+                                               Template="{StaticResource template}"
+                                               WorkerTemplate="{StaticResource workerTemplate}"
+                                               ClientTemplate="{StaticResource clientTemplate}" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+
+        <Grid RowDefinitions="Auto,Auto" RowSpacing="0" Padding="0" Margin="0">
+            <ListView x:Name="ListChat" ItemsSource="{Binding MessageModels}" HasUnevenRows="True" Grid.Row="0"
+                      IsPullToRefreshEnabled="False" IsRefreshing="False" VerticalScrollBarVisibility="Never"
+                      SelectionMode="None" SeparatorVisibility="None" Margin="0"
+                      ItemTemplate="{StaticResource messageDataTemplateSelector}">
+                <ListView.Effects>
+                    <Effects:ScrollToLastEffect/>
+                </ListView.Effects>
+            </ListView>
+
+            <Grid Padding="5" ColumnSpacing="5" Background="#000" Grid.Row="1" VerticalOptions="End" 
+                  ColumnDefinitions="*,Auto" RowDefinitions="Auto">
+                <StackLayout>
+                    <Frame HasShadow="True" Padding="0" CornerRadius="7" Grid.Column="0"  >
+                        <Editor x:Name="ChatEditor" FontSize="17" Keyboard="Text" AutoSize="TextChanges" Placeholder="Message" 
+                                HorizontalOptions="FillAndExpand" VerticalOptions="Center" 
+                                MaxLength="150" Text="{Binding Message}" >
+                            <Editor.Effects>
+                                <Effects:ChatEditorEffect/>
+                            </Editor.Effects>
+                        </Editor>
+                    </Frame>
+                </StackLayout>
+
+                <ImageButton HorizontalOptions="Center" Source="Icon_Send" Grid.Column="1" CornerRadius="100" VerticalOptions="End"
+                             BackgroundColor="#111" WidthRequest="40" IsEnabled="{Binding IsEnabled}" 
+                             HeightRequest="40" Command="{Binding SendMessageCommand}">
+                </ImageButton>
+
+            </Grid>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yepa.Views.AccessApp.SignUpPage"
+             xmlns:i18n="clr-namespace:Yepa.Helpers"
+             xmlns:Effect="clr-namespace:Yepa.Effects" 
+             Background="{AppThemeBinding Dark=#111, Default=#FFF,Light=#FFF}">
+    <!--   {i18n:Translate Login}  -->
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid RowSpacing="15" Margin="30,20">
+                
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <!--0-->
+                    <RowDefinition Height="Auto"/>
+                    <!--1-->
+                    <RowDefinition Height="Auto"/>
+                    <!--2-->
+                    <RowDefinition Height="Auto"/>
+                    <!--3-->
+                    <RowDefinition Height="Auto"/>
+                    <!--4-->
+                    <RowDefinition Height="Auto"/>
+                    <!--5-->
+                    <RowDefinition Height="Auto"/>
+                    <!--6-->
+                    <RowDefinition Height="Auto"/>
+                    <!--7-->
+                    <RowDefinition Height="Auto"/>
+                    <!--8-->
+                    <RowDefinition Height="Auto"/>
+                    <!--9-->
+                    <RowDefinition Height="Auto"/>
+                    <!--10-->
+                    <RowDefinition Height="Auto"/>
+                    <!--11-->
+                </Grid.RowDefinitions>
+                
+                <!-- Logo -->
+                <StackLayout Grid.Row="0">
+                    <Label Text=" Yepa " FontSize="45" FontAttributes="Bold" Padding="-5,-10"
+                           HorizontalOptions="CenterAndExpand"
+                           TextColor="{AppThemeBinding Dark=#000,Default=#FFF,Light=#FFF}"
+                           Background="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+                </StackLayout>
+                
+                <!-- Title -->
+                <Label Text="{i18n:Translate Login}"  FontSize="24" Grid.Row="1"  FontAttributes="Bold"
+                       TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+                
+                <!-- Email -->
+                <Frame HasShadow="true"  Padding="6" CornerRadius="25"  Grid.Row="2"
+                       Background="{AppThemeBinding Dark=#444, Default=#FFF,Light=#FFF}">
+                    <Entry Placeholder="{i18n:Translate Email}" Keyboard="Email"
+                           MaxLength="25" FontSize="Subtitle" Text="{Binding Email, Mode=TwoWay}"
+                           IsEnabled="{Binding IsEnabled}"
+                           TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                           PlaceholderColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+                </Frame>
+                
+                <!-- Password -->
+                <Frame HasShadow="true" Padding="8,4,8,8" CornerRadius="25" Grid.Row="3"
+                           Background="{AppThemeBinding Dark=#444, Default=#FFF,Light=#FFF}">
+                    <Entry Placeholder="{i18n:Translate Password}" MaxLength="25" IsPassword="True" 
+                               FontSize="Subtitle" Text="{Binding Password, Mode=TwoWay}" 
+                               IsEnabled="{Binding IsEnabled}" Keyboard="Text" FlowDirection="LeftToRight"
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                               PlaceholderColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}">
+                        <Entry.Effects>
+                            <Effect:ShowHidePassEffect/>
+                        </Entry.Effects>
+                    </Entry>
+                </Frame>
+                
+                <!-- Firstname -->
+                <Frame HasShadow="true" Padding="5" CornerRadius="25" Grid.Row="5"
+                       Background="{AppThemeBinding Dark=#444, Default=#FFF,Light=#FFF}">
+                    <Entry Placeholder="{i18n:Translate Firstname}" MaxLength="20" FontSize="Subtitle" Keyboard="Default"
+                           TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                               PlaceholderColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                           Text="{Binding ClientRequest.FirstName, Mode=TwoWay}" IsEnabled="{Binding IsEnabled}" />
+                </Frame>
+                
+                <!-- Lastname -->
+                <Frame HasShadow="true" Padding="6" CornerRadius="25"  Grid.Row="6" 
+                             Background="{AppThemeBinding Dark=#444, Default=#FFF,Light=#FFF}">
+                    <Entry Placeholder="{i18n:Translate Lastname}" MaxLength="20" FontSize="Subtitle" Keyboard="Text"
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                               PlaceholderColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                                   Text="{Binding ClientRequest.LastName, Mode=TwoWay}" IsEnabled="{Binding IsEnabled}" />
+                </Frame>
+                
+                <!-- Ubication -->
+                <Grid ColumnDefinitions="Auto,Auto" Grid.Row="7" >
+                    <CheckBox Grid.Column="0" IsChecked="{Binding CheckBox, Mode=TwoWay}" IsEnabled="{Binding IsEnabled}"
+                                  Color="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+                    <Label Grid.Column="1" Text="{i18n:Translate Givelocation}" VerticalOptions="Center" 
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                               FontSize="12" />
+                </Grid>
+
+                <!-- Country -->
+                <StackLayout Grid.Row="8"  >
+                    <Grid ColumnDefinitions="40,Auto,Auto">
+                        <Button Text="▼"  FontSize="Micro" Grid.Column="0" Command="{Binding GetCountryCodeCommand}" />
+                        <Label Text="{Binding CountryModelCountry.CodeCountryText}" TextColor="#000" FontAttributes="Bold"  FontSize="Small" VerticalOptions="Center" Grid.Column="1"    />
+                        <Frame HasShadow="true" Padding="6" CornerRadius="7" Grid.Column="2" >
+                            <Label FontSize="Subtitle" VerticalOptions="Center" TextColor="#000"
+                                   Text="{Binding CountryModelCountry.Name}" />
+                        </Frame>
+                    </Grid>
+                </StackLayout>
+
+                <!-- PhoneCode -->
+                <StackLayout Grid.Row="9" >
+                    <Grid ColumnDefinitions="40,Auto,Auto,*">
+                        <Button Text="▼" FontSize="Micro" Grid.Column="0"  Command="{Binding GetPhoneCodeCommand}"  />
+                        
+                        <Label Text="{Binding CountryModelPhone.CodeCountryText}" TextColor="#000" FontAttributes="Bold"  FontSize="Small" VerticalOptions="Center" Grid.Column="1"    />
+                        
+                        <Label Text="{Binding CountryModelPhone.Code}" 
+                               TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"
+                               FontAttributes="Bold"  FontSize="Small" VerticalOptions="Center" Grid.Column="2"    />
+                        
+                        <Frame HasShadow="true" Padding="6" CornerRadius="7" Grid.Column="3" >
+                            <Entry Placeholder="{i18n:Translate Text=Lastname}" MaxLength="12" FontSize="Subtitle" Keyboard="Telephone"
+                                   Text="{Binding PhoneNumber, Mode=TwoWay}" IsEnabled="{Binding IsEnabled}">
+                                <Entry.Behaviors>
+                                    <Effect:PhoneNumberMaskBehavior />
+                                    <Effect:EntryLengthValidator MaxLength="12"/>
+                                </Entry.Behaviors>
+                            </Entry>
+                        </Frame>
+                    </Grid>
+                </StackLayout>
+
+                <!-- Buttons -->
+                <StackLayout Grid.Row="10" Spacing="20">
+                    <Button Text="{i18n:Translate Createaccount}" FontSize="15" CornerRadius="25"
+                            FontAttributes="Bold" Command="{Binding SignUpCommand}"
+                            IsEnabled="{Binding IsEnabled, Mode=TwoWay}" 
+                            TextColor="{AppThemeBinding Dark=#000,Default=#FFF,Light=#FFF}" 
+                            BackgroundColor="{AppThemeBinding Dark=#000,Default=#FFF,Light=#FFF}"
+                            Background="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+                    
+                    <Button Text="{i18n:Translate Haveacount}" FontSize="15" 
+                            CornerRadius="25" FontAttributes="Bold"  Command="{Binding LogInCommand}"
+                            IsEnabled="{Binding IsEnabled, Mode=TwoWay}" 
+                            TextColor="{AppThemeBinding Dark=#000,Default=#FFF,Light=#FFF}" 
+                            BackgroundColor="{AppThemeBinding Dark=#000,Default=#FFF,Light=#FFF}"
+                            Background="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+                </StackLayout>
+                <!-- ActivityIndicator -->
+                <ActivityIndicator IsRunning="{Binding Loading}" IsVisible="{Binding Loading}"
+                                        Grid.Row="11"
+                                       Color="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}"/>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

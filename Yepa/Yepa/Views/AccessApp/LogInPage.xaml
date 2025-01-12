@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yepa.Views.AccessApp.LogInPage" 
+             xmlns:i18n="clr-namespace:Yepa.Helpers" 
+             xmlns:Effect="clr-namespace:Yepa.Effects" 
+             Background="#FFF">
+    <!--   {i18n:Translate Login}  -->
+    
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid RowSpacing="20" Margin="30,20">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <!--0-->
+                    <RowDefinition Height="Auto"/>
+                    <!--1-->
+                    <RowDefinition Height="Auto"/>
+                    <!--2-->
+                    <RowDefinition Height="Auto"/>
+                    <!--3-->
+                    <RowDefinition Height="Auto"/>
+                    <!--4-->
+                    <RowDefinition Height="Auto"/>
+                    <!--5-->
+                    <RowDefinition Height="Auto"/>
+                    <!--6-->
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                
+                <!-- Logo -->
+                <StackLayout Grid.Row="0">
+                    <Label Text=" Yepa " FontSize="55" FontAttributes="Bold" Padding="-5,-10"
+                           HorizontalOptions="CenterAndExpand"
+                           TextColor="#FFF"
+                           Background="#000"/>
+                </StackLayout>
+                
+                <!-- Title -->
+                <StackLayout Grid.Row="1" >
+                    <Label Text="{i18n:Translate Welcomeback}" FontAttributes="Bold" FontSize="Title" Margin="0,0,0,10" 
+                           TextColor="#000"/>
+                    <Label Text="{i18n:Translate Signincontinue}" FontSize="Subtitle"
+                           TextColor="#000"/>
+                </StackLayout>
+
+                <!-- Email -->
+                <StackLayout Grid.Row="2" >
+                    <Entry Placeholder="{i18n:Translate Email}" Keyboard="Email" MaxLength="25"
+                               Text="{Binding Email, Mode=TwoWay}" IsEnabled="{Binding IsEnabled}"
+                               FontSize="Subtitle" FlowDirection="LeftToRight" 
+                               TextColor="#000"
+                               PlaceholderColor="Gray"/>
+                </StackLayout>
+                
+                <!-- Password -->
+                <StackLayout Grid.Row="3" >
+
+                        <Entry Placeholder="{i18n:Translate Password}" MaxLength="25" IsPassword="True" 
+                               FontSize="Subtitle" Text="{Binding Password, Mode=TwoWay}" 
+                               IsEnabled="{Binding IsEnabled}" Keyboard="Text" FlowDirection="LeftToRight"
+                               TextColor="#000"
+                               PlaceholderColor="Gray">
+                            <Entry.Effects>
+                                <Effect:ShowHidePassEffect/>
+                            </Entry.Effects>
+                        </Entry>
+
+
+                    <Button Text="{i18n:Translate Forgotpassword}" FontSize="Micro"
+                            CornerRadius="25" Padding="0" HorizontalOptions="End"
+                            TextColor="#000"
+                                BackgroundColor="gray"
+                            Background="#FFF"
+                                IsEnabled="{Binding IsEnabled}" Command="{Binding ForgotPasswordCommand}"
+                                />
+                </StackLayout>
+                
+                <!-- Buttons -->
+                <StackLayout Grid.Row="4"  >
+                    <Button Text="{i18n:Translate Login}"  FontSize="Subtitle"
+                            FontAttributes="Bold" 
+                            CornerRadius="25" Margin="0,0,0,15"
+                            TextColor="#FFF" 
+                            BackgroundColor="#FFF" 
+                            Background="#000" 
+                            Command="{Binding LogInCommand}" IsEnabled="{Binding IsEnabled}"
+                            />
+                    <Button Text="{i18n:Translate Createnewaccount}" FontAttributes="Bold"
+                            FontSize="Subtitle" 
+                            TextColor="#FFF" 
+                            BackgroundColor="#FFF" 
+                            Background="#000" 
+                            
+                            CornerRadius="25" Command="{Binding SignUpCommand}" IsEnabled="{Binding IsEnabled}" 
+                            />
+                </StackLayout>
+                
+                <!-- ActivityIndicator -->
+                <ActivityIndicator IsRunning="{Binding IsLoading}" Grid.Row="5" IsVisible="{Binding IsLoading}" 
+                                   Color="#000" />
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

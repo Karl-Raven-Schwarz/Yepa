@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Yepa.Views.Home.ListViewWorkers"
+             xmlns:i18n="clr-namespace:Yepa.Helpers"
+             xmlns:Behaviors="clr-namespace:Yepa.Behaviors"
+             Title="{Binding SubCategory}"
+             xmlns:local="clr-namespace:Yepa.Views.Home"
+             Background="{AppThemeBinding Dark=#111,Light=#FFF}">
+    
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <local:DistanceConverter x:Key="DistanceConverter" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <Grid RowDefinitions="Auto,Auto,Auto" RowSpacing="0" >
+            <Grid Grid.Row="0" ColumnDefinitions="Auto,Auto" RowDefinitions="Auto" Margin="10,10,10,0" 
+                  Background="{AppThemeBinding Dark=#111,Light=#FFF}">
+                <StackLayout Grid.Column="2" Grid.Row="0" >
+                    <SearchBar x:Name="searchBar" Placeholder="{i18n:Translate Search}" Keyboard="Text" 
+                               SearchCommand="{Binding SearchCommand}" SearchCommandParameter="{Binding Text, Source={x:Reference searchBar}}"
+                               PlaceholderColor="{AppThemeBinding Dark=#FFF,Light=#000}" CancelButtonColor="{AppThemeBinding Dark=#FFF,Light=#000}"
+                               Background="{AppThemeBinding Dark=#333,Light=#FFF}" TextColor="{AppThemeBinding Dark=#FF,Light=#000}" 
+                               IsEnabled="{Binding IsEnabled}"/>
+                </StackLayout>
+
+                <StackLayout Grid.Column="1" Grid.Row="0" VerticalOptions="Center" >
+                    <Frame HasShadow="True"  Padding="4" CornerRadius="25" 
+                           Background="{AppThemeBinding Dark=#111,Light=#FFF}">
+                        <ImageButton Source="Icon_Refresh.png" HeightRequest="35"
+                                     BackgroundColor="{AppThemeBinding Dark=#111,Light=#FFF}"
+                                     Command="{Binding GetLocation}" IsEnabled="{Binding IsEnabled}" />
+                    </Frame>
+                </StackLayout>
+            </Grid>
+
+            <ListView Grid.Row="1" x:Name="ListViewWorker" ItemsSource="{Binding SearchResults}" HasUnevenRows="True"
+                      IsPullToRefreshEnabled="False" IsRefreshing="{Binding IsRefreshingWorker}" SelectionMode="None" 
+                      IsEnabled="{Binding IsEnabled}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell Behaviors:TappedViewCellBehavior.CommandParameter="{Binding .}"
+                                  Behaviors:TappedViewCellBehavior.Command="{Binding Source={x:Reference ListViewWorker},Path=BindingContext.OpenProfileCommand}">
+                            <Grid Padding="15,0" RowDefinitions="70" ColumnSpacing="10" ColumnDefinitions="60,*,Auto">
+                                <ImageButton Source="{Binding ProfileImage}" Aspect="AspectFill" WidthRequest="55" HeightRequest="55" CornerRadius="25" BackgroundColor="Transparent"
+                                             HorizontalOptions="Center" VerticalOptions="Center" InputTransparent="True"/>
+
+                                <StackLayout Grid.Column="1" HorizontalOptions="Start" VerticalOptions="Center" Orientation="Vertical">
+                                    <Label FontSize="19" FontAttributes="Bold"
+                                           VerticalOptions="CenterAndExpand" HorizontalOptions="Start"
+                                           TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" >
+                                        <Label.FormattedText>
+                                            <FormattedString>
+                                                <Span Text="{Binding FirstName}" />
+                                                <Span Text="&#013;" />
+                                                <Span Text="{Binding LastName}" />
+                                            </FormattedString>
+                                        </Label.FormattedText>
+                                    </Label>
+
+                                    <Label FontSize="14" Text="{Binding . ,Converter={StaticResource DistanceConverter}}"/>
+                                </StackLayout>
+
+                                <Label Grid.Column="2" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand" FontSize="17">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="{Binding RatingsValue}" 
+                                                  TextColor="{AppThemeBinding Dark=#FFF,Default=#000,Light=#000}" />
+                                            <Span Text=" ★" TextColor="#FEB536"/>
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            
+            <Grid Grid.Row="2" VerticalOptions="EndAndExpand" IsVisible="{Binding Exception}"
+                  RowDefinitions="*,*,*" RowSpacing="0" >
+                <Frame Grid.Row="1" Background="Red" CornerRadius="0" />
+                <Frame Grid.Row="2" Background="Red" CornerRadius="0" />
+                <Frame Grid.Row="0" Background="Red" Padding="12.5,10" CornerRadius="25" Grid.RowSpan="3" >
+                    <StackLayout>
+                        <Label Text="{Binding TranslatedMessage}" TextColor="#FFFFFF" FontSize="15" />
+                        <Label Text="{Binding Message}" TextColor="#CCCCCC" FontSize="12.5"/>
+                    </StackLayout>
+                </Frame>
+            </Grid>
+
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
